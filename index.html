@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Master Prep Sheet — 180-Day Learning Dashboard</title>
+  <meta name="description" content="Personalized 180-day learning dashboard for SDE, Data Engineer, and AI Engineer roles. Day-by-day curriculum with progress tracking, XP system, and portfolio projects.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Top Stats Bar -->
+  <header id="top-bar">
+    <div class="logo">
+      <span class="logo-icon">🚀</span>
+      <h1>Master Prep Sheet</h1>
+      <span class="logo-sub">180-Day Mastery Plan</span>
+    </div>
+    <div class="stats-row">
+      <div class="stat-card" id="stat-xp">
+        <span class="stat-icon">⚡</span>
+        <div class="stat-info">
+          <span class="stat-value" id="total-xp">0</span>
+          <span class="stat-label">Total XP</span>
+        </div>
+      </div>
+      <div class="stat-card" id="stat-streak">
+        <span class="stat-icon">🔥</span>
+        <div class="stat-info">
+          <span class="stat-value" id="current-streak">0</span>
+          <span class="stat-label">Day Streak</span>
+        </div>
+      </div>
+      <div class="stat-card" id="stat-problems">
+        <span class="stat-icon">✅</span>
+        <div class="stat-info">
+          <span class="stat-value" id="problems-solved">0</span>
+          <span class="stat-label">Problems</span>
+        </div>
+      </div>
+      <div class="stat-card" id="stat-rank">
+        <span class="stat-icon" id="rank-icon">🌱</span>
+        <div class="stat-info">
+          <span class="stat-value" id="current-rank">Rookie</span>
+          <span class="stat-label">Rank</span>
+        </div>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button id="btn-export" class="btn-icon" title="Export Progress">📥</button>
+      <button id="btn-import" class="btn-icon" title="Import Progress">📤</button>
+      <input type="file" id="import-file" accept=".json" hidden>
+    </div>
+  </header>
+
+  <!-- XP Progress Bar -->
+  <div id="xp-bar-container">
+    <div class="xp-bar-track">
+      <div class="xp-bar-fill" id="xp-bar-fill"></div>
+    </div>
+    <span class="xp-bar-label" id="xp-bar-label">Rookie → Apprentice: 0 / 500 XP</span>
+  </div>
+
+  <!-- Track Switcher + Filters -->
+  <nav id="controls">
+    <div class="track-switcher">
+      <button class="track-btn active" data-track="all">🎯 All</button>
+      <button class="track-btn" data-track="core">☕ Core Java</button>
+      <button class="track-btn" data-track="dsa">🧩 DSA</button>
+      <button class="track-btn" data-track="sde">🔵 SDE</button>
+      <button class="track-btn" data-track="de">🟠 Data Eng</button>
+      <button class="track-btn" data-track="ai">🟣 AI Eng</button>
+    </div>
+    <div class="filter-bar">
+      <input type="text" id="search-input" placeholder="Search topics, problems..." autocomplete="off">
+      <select id="phase-filter">
+        <option value="all">All Phases</option>
+        <option value="1">Phase 1: Foundation</option>
+        <option value="2">Phase 2: DSA Fundamentals</option>
+        <option value="3">Phase 3: Advanced DSA</option>
+        <option value="4">Phase 4: Specialization</option>
+        <option value="5">Phase 5: System Design</option>
+        <option value="6">Phase 6: Interview Sprint</option>
+      </select>
+      <select id="status-filter">
+        <option value="all">All Status</option>
+        <option value="not-started">Not Started</option>
+        <option value="in-progress">In Progress</option>
+        <option value="completed">Completed</option>
+      </select>
+    </div>
+  </nav>
+
+  <!-- Main Content Area -->
+  <div id="main-layout">
+    <!-- Sidebar: Charts & Analytics -->
+    <aside id="sidebar">
+      <div class="sidebar-section">
+        <h3>📊 Weekly Activity</h3>
+        <canvas id="weekly-chart" width="280" height="160"></canvas>
+      </div>
+      <div class="sidebar-section">
+        <h3>🎯 Overall Progress</h3>
+        <canvas id="progress-donut" width="200" height="200"></canvas>
+        <div id="donut-center-label">0%</div>
+      </div>
+      <div class="sidebar-section">
+        <h3>📈 XP Timeline</h3>
+        <canvas id="xp-timeline" width="280" height="140"></canvas>
+      </div>
+      <div class="sidebar-section">
+        <h3>🏆 XP Breakdown</h3>
+        <div class="xp-breakdown">
+          <div class="xp-cat"><span class="xp-dot learn"></span> Learning <span class="xp-cat-val" id="xp-learn">0</span></div>
+          <div class="xp-cat"><span class="xp-dot practice"></span> Practice <span class="xp-cat-val" id="xp-practice">0</span></div>
+          <div class="xp-cat"><span class="xp-dot mastery"></span> Mastery <span class="xp-cat-val" id="xp-mastery">0</span></div>
+        </div>
+      </div>
+      <div class="sidebar-section">
+        <h3>🗓️ Phase Progress</h3>
+        <div id="phase-bars"></div>
+      </div>
+    </aside>
+
+    <!-- Day Cards -->
+    <main id="day-cards-container">
+      <!-- Populated by JS -->
+    </main>
+  </div>
+
+  <!-- Today FAB -->
+  <button id="fab-today" title="Jump to Today">📍 Today</button>
+
+  <!-- Project Modal -->
+  <div id="project-modal" class="modal-overlay" hidden>
+    <div class="modal-content">
+      <button class="modal-close" id="modal-close">✕</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <footer>
+    <p>Built for mastery, not mediocrity. Progress saved locally in your browser.</p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
