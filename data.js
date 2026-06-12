@@ -15,8 +15,8 @@ const PREP_SHEET_DATA = [
       "JIT Compiler"
     ],
     "video": {
-      "title": "JVM Architecture & Memory Management Explained",
-      "url": "https://www.youtube.com/watch?v=ZBJ0u9MaKtM"
+      "title": "JVM Architecture & Memory Management",
+      "url": "https://www.youtube.com/results?search_query=JVM%20Architecture%20%26%20Memory%20Management%20tutorial"
     },
     "problems": [
       {
@@ -54,7 +54,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Java Constructors and Initialization Blocks",
-      "url": "https://www.youtube.com/watch?v=N4t5J_B7gpo"
+      "url": "https://www.youtube.com/results?search_query=Java%20Classes%2C%20Objects%20%26%20Constructors%20tutorial"
     },
     "problems": [
       {
@@ -92,7 +92,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Polymorphism and Dynamic Method Dispatch",
-      "url": "https://www.youtube.com/watch?v=48028E9O0o8"
+      "url": "https://www.youtube.com/results?search_query=Inheritance%20%26%20Polymorphism%20Internals%20tutorial"
     },
     "problems": [
       {
@@ -131,7 +131,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Abstract Classes vs Interfaces",
-      "url": "https://www.youtube.com/watch?v=hIVmP7cI8vA"
+      "url": "https://www.youtube.com/results?search_query=Encapsulation%2C%20Abstraction%20%26%20Interfaces%20tutorial"
     },
     "problems": [
       {
@@ -170,7 +170,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "How HashMap works internally in Java",
-      "url": "https://www.youtube.com/watch?v=c3RVW3KGIIE"
+      "url": "https://www.youtube.com/results?search_query=HashMap%20Internals%20%26%20Hash%20Collisions%20tutorial"
     },
     "problems": [
       {
@@ -207,7 +207,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "ArrayList vs LinkedList Inner Workings",
-      "url": "https://www.youtube.com/watch?v=5D8t6s1K_eM"
+      "url": "https://www.youtube.com/results?search_query=ArrayList%20%26%20LinkedList%20Internals%20tutorial"
     },
     "problems": [
       {
@@ -240,7 +240,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Java Exception Handling Architecture",
-      "url": "https://www.youtube.com/watch?v=1XkPz8n5OEs"
+      "url": "https://www.youtube.com/results?search_query=Java%20Exception%20Handling%20%26%20Best%20Practices%20tutorial"
     },
     "problems": [
       {
@@ -273,7 +273,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Java Generics and Type Erasure",
-      "url": "https://www.youtube.com/watch?v=K1iu1kXkVoA"
+      "url": "https://www.youtube.com/results?search_query=Generics%20%26%20Type%20Erasure%20tutorial"
     },
     "problems": [
       {
@@ -306,7 +306,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Java Multithreading Tutorial",
-      "url": "https://www.youtube.com/watch?v=TCd8QIS-2KI"
+      "url": "https://www.youtube.com/results?search_query=Multithreading%20%26%20Concurrency%20Basics%20tutorial"
     },
     "problems": [
       {
@@ -344,7 +344,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Java Thread Pools & Executor Framework",
-      "url": "https://www.youtube.com/watch?v=s44r8X9tX00"
+      "url": "https://www.youtube.com/results?search_query=Advanced%20Concurrency%20%26%20ThreadPools%20tutorial"
     },
     "problems": [
       {
@@ -377,7 +377,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Deep Dive into JVM Garbage Collectors",
-      "url": "https://www.youtube.com/watch?v=2eS5o_T4D48"
+      "url": "https://www.youtube.com/results?search_query=Garbage%20Collection%20Algorithms%20in%20Deep%20tutorial"
     },
     "problems": [
       {
@@ -410,7 +410,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Java Streams Complete Guide",
-      "url": "https://www.youtube.com/watch?v=t1-YZAlL_HU"
+      "url": "https://www.youtube.com/results?search_query=Java%20Streams%20API%20tutorial"
     },
     "problems": [
       {
@@ -443,7 +443,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Functional Interfaces & Lambdas in Java",
-      "url": "https://www.youtube.com/watch?v=482-171bNrs"
+      "url": "https://www.youtube.com/results?search_query=Functional%20Programming%20in%20Java%20tutorial"
     },
     "problems": [
       {
@@ -476,7 +476,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Java Reflection API Tutorial",
-      "url": "https://www.youtube.com/watch?v=AGN6mG2q6Z0"
+      "url": "https://www.youtube.com/results?search_query=Java%20Reflection%20API%20%26%20Dynamic%20Proxies%20tutorial"
     },
     "problems": [
       {
@@ -509,7 +509,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Java Serialization Tutorial",
-      "url": "https://www.youtube.com/watch?v=XZ-n9d4PjZc"
+      "url": "https://www.youtube.com/results?search_query=Serialization%20%26%20Transient%20Fields%20tutorial"
     },
     "problems": [
       {
@@ -542,8 +542,8 @@ const PREP_SHEET_DATA = [
       "Text blocks"
     ],
     "video": {
-      "title": "Java 17 Features in 15 Minutes",
-      "url": "https://www.youtube.com/watch?v=1328H8GjY5U"
+      "title": "Java 17 Features",
+      "url": "https://www.youtube.com/results?search_query=Java%209%20to%2017%2B%20Modern%20Features%20tutorial"
     },
     "problems": [
       {
@@ -576,7 +576,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Build a Custom HashMap in Java",
-      "url": "https://www.youtube.com/watch?v=Ke5N1c_V5Zg"
+      "url": "https://www.youtube.com/results?search_query=Custom%20HashMap%20Build%20Project%20tutorial"
     },
     "problems": [],
     "practice_links": [],
@@ -612,13 +612,13 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "SOLID Principles: Single Responsibility",
-      "url": "https://www.youtube.com/watch?v=vALnHeCSIz4"
+      "url": "https://www.youtube.com/results?search_query=LLD%20%26%20SOLID%3A%20Single%20Responsibility%20Principle%20tutorial"
     },
     "problems": [],
     "practice_links": [
       {
-        "name": "SRP Code Kata",
-        "url": "https://github.com/ardalis/SolidPrinciples"
+        "name": "SRP Code Practice",
+        "url": "https://refactoring.guru/design-patterns"
       }
     ],
     "project": null,
@@ -642,13 +642,13 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "SOLID Principles: Open-Closed",
-      "url": "https://www.youtube.com/watch?v=9oYmR6757G8"
+      "url": "https://www.youtube.com/results?search_query=LLD%20%26%20SOLID%3A%20Open-Closed%20Principle%20tutorial"
     },
     "problems": [],
     "practice_links": [
       {
         "name": "OCP Practice Problems",
-        "url": "https://github.com/ardalis/SolidPrinciples"
+        "url": "https://refactoring.guru/design-patterns"
       }
     ],
     "project": null,
@@ -672,13 +672,13 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "SOLID Principles: Liskov Substitution",
-      "url": "https://www.youtube.com/watch?v=dJ3t4IQn-2o"
+      "url": "https://www.youtube.com/results?search_query=LLD%20%26%20SOLID%3A%20Liskov%20Substitution%20Principle%20tutorial"
     },
     "problems": [],
     "practice_links": [
       {
         "name": "LSP Refactoring Practice",
-        "url": "https://github.com/ardalis/SolidPrinciples"
+        "url": "https://refactoring.guru/design-patterns"
       }
     ],
     "project": null,
@@ -702,13 +702,13 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "SOLID Principles: ISP and DIP",
-      "url": "https://www.youtube.com/watch?v=2X50sKz8Lsg"
+      "url": "https://www.youtube.com/results?search_query=LLD%3A%20ISP%2C%20DIP%20%26%20SOLID%20Capstone%20tutorial"
     },
     "problems": [],
     "practice_links": [
       {
         "name": "SOLID Kata Refactoring",
-        "url": "https://github.com/sandroancora/solid-principles-kata"
+        "url": "https://refactoring.guru/design-patterns"
       }
     ],
     "project": null,
@@ -733,7 +733,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Creational Design Patterns Explained",
-      "url": "https://www.youtube.com/watch?v=v-GiuMmsXj4"
+      "url": "https://www.youtube.com/results?search_query=Creational%20Design%20Patterns%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -764,7 +764,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Structural Design Patterns Explained",
-      "url": "https://www.youtube.com/watch?v=v-GiuMmsXj4"
+      "url": "https://www.youtube.com/results?search_query=Structural%20Design%20Patterns%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -795,7 +795,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Behavioral Design Patterns Explained",
-      "url": "https://www.youtube.com/watch?v=v-GiuMmsXj4"
+      "url": "https://www.youtube.com/results?search_query=Behavioral%20Design%20Patterns%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -825,7 +825,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Design Patterns in Real Applications",
-      "url": "https://www.youtube.com/watch?v=tAuRQs_d9F8"
+      "url": "https://www.youtube.com/results?search_query=SOLID%20%26%20Design%20Patterns%20Project%20tutorial"
     },
     "problems": [],
     "practice_links": [],
@@ -861,7 +861,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Two Pointer Pattern Complete Guide",
-      "url": "https://www.youtube.com/watch?v=On03H9wfhyU"
+      "url": "https://www.youtube.com/results?search_query=Arrays%20%26%20Vectors%3A%20Basics%20%26%20Two-Pointer%20Pattern%20tutorial"
     },
     "problems": [
       {
@@ -906,7 +906,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Sliding Window Technique Tutorial",
-      "url": "https://www.youtube.com/watch?v=GcW4s3ySLuI"
+      "url": "https://www.youtube.com/results?search_query=Two%20Pointers%3A%20Same%20Directional%20%26%20Sliding%20Window%20tutorial"
     },
     "problems": [
       {
@@ -944,7 +944,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Variable Size Sliding Window Problems",
-      "url": "https://www.youtube.com/watch?v=9KdgZ8U7igw"
+      "url": "https://www.youtube.com/results?search_query=Variable%20Size%20Sliding%20Window%20%26%20Monotonic%20Window%20tutorial"
     },
     "problems": [
       {
@@ -982,7 +982,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Prefix Sum Algorithm and Applications",
-      "url": "https://www.youtube.com/watch?v=scD312I7kkE"
+      "url": "https://www.youtube.com/results?search_query=Prefix%20Sum%20%26%20Range%20Queries%20tutorial"
     },
     "problems": [
       {
@@ -1020,7 +1020,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Kadane's Algorithm Explained",
-      "url": "https://www.youtube.com/watch?v=w_KEocd__20"
+      "url": "https://www.youtube.com/results?search_query=Kadane's%20Algorithm%20%26%20Subarray%20Maximization%20tutorial"
     },
     "problems": [
       {
@@ -1057,8 +1057,8 @@ const PREP_SHEET_DATA = [
       "StringBuilder vs StringBuffer"
     ],
     "video": {
-      "title": "String Basics & Character Manipulation Tutorial",
-      "url": "https://www.youtube.com/watch?v=EN71-10T1bI"
+      "title": "String Basics & Character Manipulation",
+      "url": "https://www.youtube.com/results?search_query=String%20Basics%20%26%20Character%20Manipulation%20tutorial"
     },
     "problems": [
       {
@@ -1095,8 +1095,8 @@ const PREP_SHEET_DATA = [
       "Rabin-Karp basics"
     ],
     "video": {
-      "title": "String Matching & Palindromes Tutorial",
-      "url": "https://www.youtube.com/watch?v=kbUlG09A7oU"
+      "title": "String Matching & Palindromes",
+      "url": "https://www.youtube.com/results?search_query=String%20Matching%20%26%20Palindromes%20tutorial"
     },
     "problems": [
       {
@@ -1133,8 +1133,8 @@ const PREP_SHEET_DATA = [
       "Tracking index of elements"
     ],
     "video": {
-      "title": "Hashing: HashMaps & HashSets Tutorial",
-      "url": "https://www.youtube.com/watch?v=Z57R5n7D34k"
+      "title": "Hashing: HashMaps & HashSets",
+      "url": "https://www.youtube.com/results?search_query=Hashing%3A%20HashMaps%20%26%20HashSets%20tutorial"
     },
     "problems": [
       {
@@ -1171,8 +1171,8 @@ const PREP_SHEET_DATA = [
       "Avoiding integer overflow in middle calculation"
     ],
     "video": {
-      "title": "Binary Search: Classic & Target Match Tutorial",
-      "url": "https://www.youtube.com/watch?v=C2apEw9pgtw"
+      "title": "Binary Search: Classic & Target Match",
+      "url": "https://www.youtube.com/results?search_query=Binary%20Search%3A%20Classic%20%26%20Target%20Match%20tutorial"
     },
     "problems": [
       {
@@ -1209,8 +1209,8 @@ const PREP_SHEET_DATA = [
       "Searching in rotated sorted array"
     ],
     "video": {
-      "title": "Binary Search: Lower & Upper Bound Tutorial",
-      "url": "https://www.youtube.com/watch?v=6zhGS79oQ4k"
+      "title": "Binary Search: Lower & Upper Bound",
+      "url": "https://www.youtube.com/results?search_query=Binary%20Search%3A%20Lower%20%26%20Upper%20Bound%20tutorial"
     },
     "problems": [
       {
@@ -1247,8 +1247,8 @@ const PREP_SHEET_DATA = [
       "Minimizing the maximum value"
     ],
     "video": {
-      "title": "Binary Search on Answer Space Tutorial",
-      "url": "https://www.youtube.com/watch?v=YTTdLgyqOLY"
+      "title": "Binary Search on Answer Space",
+      "url": "https://www.youtube.com/results?search_query=Binary%20Search%20on%20Answer%20Space%20tutorial"
     },
     "problems": [
       {
@@ -1285,8 +1285,8 @@ const PREP_SHEET_DATA = [
       "In-place modifications"
     ],
     "video": {
-      "title": "Sorting: Insertion, Selection, Bubble Tutorial",
-      "url": "https://www.youtube.com/watch?v=HGk_ypEUj24"
+      "title": "Sorting: Insertion, Selection, Bubble",
+      "url": "https://www.youtube.com/results?search_query=Sorting%3A%20Insertion%2C%20Selection%2C%20Bubble%20tutorial"
     },
     "problems": [
       {
@@ -1317,8 +1317,8 @@ const PREP_SHEET_DATA = [
       "Space complexity comparison"
     ],
     "video": {
-      "title": "Sorting: Merge Sort & Quick Sort Tutorial",
-      "url": "https://www.youtube.com/watch?v=aClsk8I86Q0"
+      "title": "Sorting: Merge Sort & Quick Sort",
+      "url": "https://www.youtube.com/results?search_query=Sorting%3A%20Merge%20Sort%20%26%20Quick%20Sort%20tutorial"
     },
     "problems": [
       {
@@ -1349,8 +1349,8 @@ const PREP_SHEET_DATA = [
       "Fibonacci & Factorial trace"
     ],
     "video": {
-      "title": "Recursion Basics & Mathematical Inductions Tutorial",
-      "url": "https://www.youtube.com/watch?v=yVdKa8dnKiE"
+      "title": "Recursion Basics & Mathematical Inductions",
+      "url": "https://www.youtube.com/results?search_query=Recursion%20Basics%20%26%20Mathematical%20Inductions%20tutorial"
     },
     "problems": [
       {
@@ -1386,8 +1386,8 @@ const PREP_SHEET_DATA = [
       "Recursion state tracing"
     ],
     "video": {
-      "title": "Recursion: Subsequence & Combination Generation Tutorial",
-      "url": "https://www.youtube.com/watch?v=AxNNVECce84"
+      "title": "Recursion: Subsequence & Combination Generation",
+      "url": "https://www.youtube.com/results?search_query=Recursion%3A%20Subsequence%20%26%20Combination%20Generation%20tutorial"
     },
     "problems": [
       {
@@ -1419,12 +1419,12 @@ const PREP_SHEET_DATA = [
     "track": "dsa",
     "topic": "Backtracking: Permutations & Choice Elimination",
     "subtopics": [
-      "Swapping vs boolean array visited",
-      "Time complexity calculation"
+      "Swapping vs visited state tracker",
+      "Time complexity calculations"
     ],
     "video": {
-      "title": "Backtracking: Permutations & Choice Elimination Tutorial",
-      "url": "https://www.youtube.com/watch?v=NabdqlYF--o"
+      "title": "Backtracking: Permutations & Choice Elimination",
+      "url": "https://www.youtube.com/results?search_query=Backtracking%3A%20Permutations%20%26%20Choice%20Elimination%20tutorial"
     },
     "problems": [
       {
@@ -1455,8 +1455,8 @@ const PREP_SHEET_DATA = [
       "Backtracking undo phase"
     ],
     "video": {
-      "title": "Backtracking: Grid Paths & Maze Problems Tutorial",
-      "url": "https://www.youtube.com/watch?v=gdk2z0V7s1U"
+      "title": "Backtracking: Grid Paths & Maze Problems",
+      "url": "https://www.youtube.com/results?search_query=Backtracking%3A%20Grid%20Paths%20%26%20Maze%20Problems%20tutorial"
     },
     "problems": [
       {
@@ -1486,8 +1486,8 @@ const PREP_SHEET_DATA = [
       "Col/Row hashing"
     ],
     "video": {
-      "title": "Backtracking: Hard Constraints (N-Queens) Tutorial",
-      "url": "https://www.youtube.com/watch?v=i05Ju7AFTcM"
+      "title": "Backtracking: Hard Constraints (N-Queens)",
+      "url": "https://www.youtube.com/results?search_query=Backtracking%3A%20Hard%20Constraints%20(N-Queens)%20tutorial"
     },
     "problems": [
       {
@@ -1511,15 +1511,15 @@ const PREP_SHEET_DATA = [
     "week": 7,
     "phase": "Phase 2: DSA Fundamentals",
     "track": "dsa",
-    "topic": "Backtracking: Sudoku Solver Project Prep",
+    "topic": "Backtracking: Sudoku Solver Prep",
     "subtopics": [
       "Checking 3x3 grids",
       "Row/Col checks",
       "Completeness checking"
     ],
     "video": {
-      "title": "Backtracking: Sudoku Solver Project Prep Tutorial",
-      "url": "https://www.youtube.com/watch?v=FWAIf_yJYDM"
+      "title": "Backtracking: Sudoku Solver Prep",
+      "url": "https://www.youtube.com/results?search_query=Backtracking%3A%20Sudoku%20Solver%20Prep%20tutorial"
     },
     "problems": [
       {
@@ -1549,8 +1549,8 @@ const PREP_SHEET_DATA = [
       "Optimizing search space"
     ],
     "video": {
-      "title": "Backtracking Capstone Project Day Tutorial",
-      "url": "https://www.youtube.com/watch?v=JzON1yMcYdw"
+      "title": "Backtracking Capstone Project Day",
+      "url": "https://www.youtube.com/results?search_query=Backtracking%20Capstone%20Project%20Day%20tutorial"
     },
     "problems": [],
     "practice_links": [],
@@ -1582,8 +1582,8 @@ const PREP_SHEET_DATA = [
       "Access patterns"
     ],
     "video": {
-      "title": "Matrix: Basics & 2D Arrays in Memory Tutorial",
-      "url": "https://www.youtube.com/watch?v=1D3eK9s_Kns"
+      "title": "Matrix: Basics & 2D Arrays in Memory",
+      "url": "https://www.youtube.com/results?search_query=Matrix%3A%20Basics%20%26%202D%20Arrays%20in%20Memory%20tutorial"
     },
     "problems": [
       {
@@ -1613,8 +1613,8 @@ const PREP_SHEET_DATA = [
       "Clockwise traversal logic"
     ],
     "video": {
-      "title": "Matrix: Layer-by-Layer & Spiral Traversal Tutorial",
-      "url": "https://www.youtube.com/watch?v=3joo9yAZQw0"
+      "title": "Matrix: Layer-by-Layer & Spiral Traversal",
+      "url": "https://www.youtube.com/results?search_query=Matrix%3A%20Layer-by-Layer%20%26%20Spiral%20Traversal%20tutorial"
     },
     "problems": [
       {
@@ -1650,8 +1650,8 @@ const PREP_SHEET_DATA = [
       "Binary search row-wise"
     ],
     "video": {
-      "title": "Matrix: Binary Search on 2D Grids Tutorial",
-      "url": "https://www.youtube.com/watch?v=ZYpYur0znRI"
+      "title": "Matrix: Binary Search on 2D Grids",
+      "url": "https://www.youtube.com/results?search_query=Matrix%3A%20Binary%20Search%20on%202D%20Grids%20tutorial"
     },
     "problems": [
       {
@@ -1687,8 +1687,8 @@ const PREP_SHEET_DATA = [
       "Descending stack structure"
     ],
     "video": {
-      "title": "Monotonic Stack: Next Greater Element Tutorial",
-      "url": "https://www.youtube.com/watch?v=Dqy_c90Qy7U"
+      "title": "Monotonic Stack: Next Greater Element",
+      "url": "https://www.youtube.com/results?search_query=Monotonic%20Stack%3A%20Next%20Greater%20Element%20tutorial"
     },
     "problems": [
       {
@@ -1724,8 +1724,8 @@ const PREP_SHEET_DATA = [
       "Boundary tracking"
     ],
     "video": {
-      "title": "Monotonic Stack: Hard Problems (Rainwater) Tutorial",
-      "url": "https://www.youtube.com/watch?v=m18yPAF5axk"
+      "title": "Monotonic Stack: Hard Problems (Rainwater)",
+      "url": "https://www.youtube.com/results?search_query=Monotonic%20Stack%3A%20Hard%20Problems%20(Rainwater)%20tutorial"
     },
     "problems": [
       {
@@ -1755,8 +1755,8 @@ const PREP_SHEET_DATA = [
       "Operator precedence"
     ],
     "video": {
-      "title": "Stacks: Expression Parsing & Validity Tutorial",
-      "url": "https://www.youtube.com/watch?v=uuE3gIPMcts"
+      "title": "Stacks: Expression Parsing & Validity",
+      "url": "https://www.youtube.com/results?search_query=Stacks%3A%20Expression%20Parsing%20%26%20Validity%20tutorial"
     },
     "problems": [
       {
@@ -1786,8 +1786,8 @@ const PREP_SHEET_DATA = [
       "Circular queues"
     ],
     "video": {
-      "title": "Queues: FIFO Basics & Ring Buffers Tutorial",
-      "url": "https://www.youtube.com/watch?v=zp6pAE87Bv8"
+      "title": "Queues: FIFO Basics & Ring Buffers",
+      "url": "https://www.youtube.com/results?search_query=Queues%3A%20FIFO%20Basics%20%26%20Ring%20Buffers%20tutorial"
     },
     "problems": [
       {
@@ -1817,8 +1817,8 @@ const PREP_SHEET_DATA = [
       "O(1) sliding window max lookup"
     ],
     "video": {
-      "title": "Monotonic Queue & Sliding Window Maximum Tutorial",
-      "url": "https://www.youtube.com/watch?v=DfljaUwZsOk"
+      "title": "Monotonic Queue & Sliding Window Maximum",
+      "url": "https://www.youtube.com/results?search_query=Monotonic%20Queue%20%26%20Sliding%20Window%20Maximum%20tutorial"
     },
     "problems": [
       {
@@ -1848,8 +1848,8 @@ const PREP_SHEET_DATA = [
       "Heap integrations"
     ],
     "video": {
-      "title": "Stack & Queue Design Patterns Tutorial",
-      "url": "https://www.youtube.com/watch?v=V8UJSdIPMbc"
+      "title": "Stack & Queue Design Patterns",
+      "url": "https://www.youtube.com/results?search_query=Stack%20%26%20Queue%20Design%20Patterns%20tutorial"
     },
     "problems": [
       {
@@ -1879,8 +1879,8 @@ const PREP_SHEET_DATA = [
       "O(1) updates"
     ],
     "video": {
-      "title": "LRU Cache Design Project Day Tutorial",
-      "url": "https://www.youtube.com/watch?v=Xc4sICC8m4M"
+      "title": "LRU Cache Design Project Day",
+      "url": "https://www.youtube.com/results?search_query=LRU%20Cache%20Design%20Project%20Day%20tutorial"
     },
     "problems": [
       {
@@ -1920,8 +1920,8 @@ const PREP_SHEET_DATA = [
       "Insertion at head/tail/kth position"
     ],
     "video": {
-      "title": "Linked List: Basics & Iterations Tutorial",
-      "url": "https://www.youtube.com/watch?v=q5Spt1A3vP8"
+      "title": "Linked List: Basics & Iterations",
+      "url": "https://www.youtube.com/results?search_query=Linked%20List%3A%20Basics%20%26%20Iterations%20tutorial"
     },
     "problems": [
       {
@@ -1958,8 +1958,8 @@ const PREP_SHEET_DATA = [
       "Intersection detection"
     ],
     "video": {
-      "title": "Linked List: Floyd's Cycle & Fast-Slow Pointers Tutorial",
-      "url": "https://www.youtube.com/watch?v=F5kX1w_I8z8"
+      "title": "Linked List: Floyd's Cycle & Fast-Slow Pointers",
+      "url": "https://www.youtube.com/results?search_query=Linked%20List%3A%20Floyd's%20Cycle%20%26%20Fast-Slow%20Pointers%20tutorial"
     },
     "problems": [
       {
@@ -2001,8 +2001,8 @@ const PREP_SHEET_DATA = [
       "Group of K nodes reversal"
     ],
     "video": {
-      "title": "Linked List: Operations & Reversal Patterns Tutorial",
-      "url": "https://www.youtube.com/watch?v=Of0y9m5a8hU"
+      "title": "Linked List: Operations & Reversal Patterns",
+      "url": "https://www.youtube.com/results?search_query=Linked%20List%3A%20Operations%20%26%20Reversal%20Patterns%20tutorial"
     },
     "problems": [
       {
@@ -2038,8 +2038,8 @@ const PREP_SHEET_DATA = [
       "Copying lists with random pointer"
     ],
     "video": {
-      "title": "Linked List: Sorting & Deep Copy Tutorial",
-      "url": "https://www.youtube.com/watch?v=83mPr0iFhJw"
+      "title": "Linked List: Sorting & Deep Copy",
+      "url": "https://www.youtube.com/results?search_query=Linked%20List%3A%20Sorting%20%26%20Deep%20Copy%20tutorial"
     },
     "problems": [
       {
@@ -2075,8 +2075,8 @@ const PREP_SHEET_DATA = [
       "Deleting node in O(1)"
     ],
     "video": {
-      "title": "Doubly Linked List & Applications Tutorial",
-      "url": "https://www.youtube.com/watch?v=5s0x8kOd_lU"
+      "title": "Doubly Linked List & Applications",
+      "url": "https://www.youtube.com/results?search_query=Doubly%20Linked%20List%20%26%20Applications%20tutorial"
     },
     "problems": [
       {
@@ -2106,8 +2106,8 @@ const PREP_SHEET_DATA = [
       "Tree height, Diameter"
     ],
     "video": {
-      "title": "Binary Trees: Tree Traversals (DFS) Explanation",
-      "url": "https://www.youtube.com/results?search_query=Binary%20Trees%3A%20Tree%20Traversals%20(DFS)"
+      "title": "Binary Trees: Tree Traversals (DFS)",
+      "url": "https://www.youtube.com/results?search_query=Binary%20Trees%3A%20Tree%20Traversals%20(DFS)%20tutorial"
     },
     "problems": [
       {
@@ -2150,8 +2150,8 @@ const PREP_SHEET_DATA = [
       "Vertical order traversal"
     ],
     "video": {
-      "title": "Binary Trees: Level Order Traversal (BFS) Explanation",
-      "url": "https://www.youtube.com/results?search_query=Binary%20Trees%3A%20Level%20Order%20Traversal%20(BFS)"
+      "title": "Binary Trees: Level Order Traversal (BFS)",
+      "url": "https://www.youtube.com/results?search_query=Binary%20Trees%3A%20Level%20Order%20Traversal%20(BFS)%20tutorial"
     },
     "problems": [
       {
@@ -2188,8 +2188,8 @@ const PREP_SHEET_DATA = [
       "Boundary traversal"
     ],
     "video": {
-      "title": "Binary Trees: Views & Boundary Traversals Explanation",
-      "url": "https://www.youtube.com/results?search_query=Binary%20Trees%3A%20Views%20%26%20Boundary%20Traversals"
+      "title": "Binary Trees: Views & Boundary Traversals",
+      "url": "https://www.youtube.com/results?search_query=Binary%20Trees%3A%20Views%20%26%20Boundary%20Traversals%20tutorial"
     },
     "problems": [
       {
@@ -2220,8 +2220,8 @@ const PREP_SHEET_DATA = [
       "Max path sum"
     ],
     "video": {
-      "title": "Binary Trees: LCA & Paths Explanation",
-      "url": "https://www.youtube.com/results?search_query=Binary%20Trees%3A%20LCA%20%26%20Paths"
+      "title": "Binary Trees: LCA & Paths",
+      "url": "https://www.youtube.com/results?search_query=Binary%20Trees%3A%20LCA%20%26%20Paths%20tutorial"
     },
     "problems": [
       {
@@ -2257,8 +2257,8 @@ const PREP_SHEET_DATA = [
       "Serialize/deserialize binary tree"
     ],
     "video": {
-      "title": "Binary Trees: Serialization & Reconstruction Explanation",
-      "url": "https://www.youtube.com/results?search_query=Binary%20Trees%3A%20Serialization%20%26%20Reconstruction"
+      "title": "Binary Trees: Serialization & Reconstruction",
+      "url": "https://www.youtube.com/results?search_query=Binary%20Trees%3A%20Serialization%20%26%20Reconstruction%20tutorial"
     },
     "problems": [
       {
@@ -2294,8 +2294,8 @@ const PREP_SHEET_DATA = [
       "Insertion & deletion algorithms"
     ],
     "video": {
-      "title": "BST: Properties, Search & Insertion Explanation",
-      "url": "https://www.youtube.com/results?search_query=BST%3A%20Properties%2C%20Search%20%26%20Insertion"
+      "title": "BST: Properties, Search & Insertion",
+      "url": "https://www.youtube.com/results?search_query=BST%3A%20Properties%2C%20Search%20%26%20Insertion%20tutorial"
     },
     "problems": [
       {
@@ -2337,8 +2337,8 @@ const PREP_SHEET_DATA = [
       "LCA in BST"
     ],
     "video": {
-      "title": "BST: Validation & LCA Explanation",
-      "url": "https://www.youtube.com/results?search_query=BST%3A%20Validation%20%26%20LCA"
+      "title": "BST: Validation & LCA",
+      "url": "https://www.youtube.com/results?search_query=BST%3A%20Validation%20%26%20LCA%20tutorial"
     },
     "problems": [
       {
@@ -2374,8 +2374,8 @@ const PREP_SHEET_DATA = [
       "BST iterator design"
     ],
     "video": {
-      "title": "BST: Two Sum in BST & Kth Smallest Explanation",
-      "url": "https://www.youtube.com/results?search_query=BST%3A%20Two%20Sum%20in%20BST%20%26%20Kth%20Smallest"
+      "title": "BST: Two Sum in BST & Kth Smallest",
+      "url": "https://www.youtube.com/results?search_query=BST%3A%20Two%20Sum%20in%20BST%20%26%20Kth%20Smallest%20tutorial"
     },
     "problems": [
       {
@@ -2411,8 +2411,8 @@ const PREP_SHEET_DATA = [
       "Recursive split"
     ],
     "video": {
-      "title": "BST: Convert sorted array to BST Explanation",
-      "url": "https://www.youtube.com/results?search_query=BST%3A%20Convert%20sorted%20array%20to%20BST"
+      "title": "BST: Convert sorted array to BST",
+      "url": "https://www.youtube.com/results?search_query=BST%3A%20Convert%20sorted%20array%20to%20BST%20tutorial"
     },
     "problems": [
       {
@@ -2442,8 +2442,8 @@ const PREP_SHEET_DATA = [
       "Visualizing hierarchical nodes"
     ],
     "video": {
-      "title": "Binary Trees Capstone Project Day Explanation",
-      "url": "https://www.youtube.com/results?search_query=Binary%20Trees%20Capstone%20Project%20Day"
+      "title": "Binary Trees Capstone Project Day",
+      "url": "https://www.youtube.com/results?search_query=Binary%20Trees%20Capstone%20Project%20Day%20tutorial"
     },
     "problems": [],
     "practice_links": [],
@@ -2476,8 +2476,8 @@ const PREP_SHEET_DATA = [
       "Build Heap in O(N)"
     ],
     "video": {
-      "title": "Heaps: Heap Representation & Insertion Explanation",
-      "url": "https://www.youtube.com/results?search_query=Heaps%3A%20Heap%20Representation%20%26%20Insertion"
+      "title": "Heaps: Heap Representation & Insertion",
+      "url": "https://www.youtube.com/results?search_query=Heaps%3A%20Heap%20Representation%20%26%20Insertion%20tutorial"
     },
     "problems": [
       {
@@ -2508,8 +2508,8 @@ const PREP_SHEET_DATA = [
       "Merging K sorted lists"
     ],
     "video": {
-      "title": "Heaps: K-Way Merging & Top K Elements Explanation",
-      "url": "https://www.youtube.com/results?search_query=Heaps%3A%20K-Way%20Merging%20%26%20Top%20K%20Elements"
+      "title": "Heaps: K-Way Merging & Top K Elements",
+      "url": "https://www.youtube.com/results?search_query=Heaps%3A%20K-Way%20Merging%20%26%20Top%20K%20Elements%20tutorial"
     },
     "problems": [
       {
@@ -2545,8 +2545,8 @@ const PREP_SHEET_DATA = [
       "Dynamic priority updates"
     ],
     "video": {
-      "title": "Heaps: Stream Operations & Sliding Window Explanation",
-      "url": "https://www.youtube.com/results?search_query=Heaps%3A%20Stream%20Operations%20%26%20Sliding%20Window"
+      "title": "Heaps: Stream Operations & Sliding Window",
+      "url": "https://www.youtube.com/results?search_query=Heaps%3A%20Stream%20Operations%20%26%20Sliding%20Window%20tutorial"
     },
     "problems": [
       {
@@ -2576,8 +2576,8 @@ const PREP_SHEET_DATA = [
       "Breadth First Search unweighted shortest paths"
     ],
     "video": {
-      "title": "Graphs: Representation & BFS Explanation",
-      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Representation%20%26%20BFS"
+      "title": "Graphs: Representation & BFS",
+      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Representation%20%26%20BFS%20tutorial"
     },
     "problems": [
       {
@@ -2608,8 +2608,8 @@ const PREP_SHEET_DATA = [
       "Cycle detection in undirected graphs"
     ],
     "video": {
-      "title": "Graphs: DFS & Connectivity Explanation",
-      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20DFS%20%26%20Connectivity"
+      "title": "Graphs: DFS & Connectivity",
+      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20DFS%20%26%20Connectivity%20tutorial"
     },
     "problems": [
       {
@@ -2646,8 +2646,8 @@ const PREP_SHEET_DATA = [
       "Course scheduling dependency resolution"
     ],
     "video": {
-      "title": "Graphs: Directed Cycles & Topological Sort Explanation",
-      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Directed%20Cycles%20%26%20Topological%20Sort"
+      "title": "Graphs: Directed Cycles & Topological Sort",
+      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Directed%20Cycles%20%26%20Topological%20Sort%20tutorial"
     },
     "problems": [
       {
@@ -2684,8 +2684,8 @@ const PREP_SHEET_DATA = [
       "Negative weight limitation"
     ],
     "video": {
-      "title": "Graphs: Single Source Shortest Path (Dijkstra) Explanation",
-      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Single%20Source%20Shortest%20Path%20(Dijkstra)"
+      "title": "Graphs: Single Source Shortest Path (Dijkstra)",
+      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Single%20Source%20Shortest%20Path%20(Dijkstra)%20tutorial"
     },
     "problems": [
       {
@@ -2722,8 +2722,8 @@ const PREP_SHEET_DATA = [
       "Floyd-Warshall all-pairs shortest paths"
     ],
     "video": {
-      "title": "Graphs: Bellman-Ford & Negative Cycles Explanation",
-      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Bellman-Ford%20%26%20Negative%20Cycles"
+      "title": "Graphs: Bellman-Ford & Negative Cycles",
+      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Bellman-Ford%20%26%20Negative%20Cycles%20tutorial"
     },
     "problems": [
       {
@@ -2754,8 +2754,8 @@ const PREP_SHEET_DATA = [
       "Detecting cycles dynamically"
     ],
     "video": {
-      "title": "Graphs: Minimum Spanning Trees (Kruskal & Prim) Explanation",
-      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Minimum%20Spanning%20Trees%20(Kruskal%20%26%20Prim)"
+      "title": "Graphs: Minimum Spanning Trees (Kruskal & Prim)",
+      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Minimum%20Spanning%20Trees%20(Kruskal%20%26%20Prim)%20tutorial"
     },
     "problems": [
       {
@@ -2786,8 +2786,8 @@ const PREP_SHEET_DATA = [
       "Redundant connection detection"
     ],
     "video": {
-      "title": "Graphs: Disjoint Set (Union-Find) Deep Dive Explanation",
-      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Disjoint%20Set%20(Union-Find)%20Deep%20Dive"
+      "title": "Graphs: Disjoint Set (Union-Find) Deep Dive",
+      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Disjoint%20Set%20(Union-Find)%20Deep%20Dive%20tutorial"
     },
     "problems": [
       {
@@ -2823,8 +2823,8 @@ const PREP_SHEET_DATA = [
       "DFS finishing times ordering"
     ],
     "video": {
-      "title": "Graphs: Strongly Connected Components (Kosaraju) Explanation",
-      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Strongly%20Connected%20Components%20(Kosaraju)"
+      "title": "Graphs: Strongly Connected Components (Kosaraju)",
+      "url": "https://www.youtube.com/results?search_query=Graphs%3A%20Strongly%20Connected%20Components%20(Kosaraju)%20tutorial"
     },
     "problems": [
       {
@@ -2854,8 +2854,8 @@ const PREP_SHEET_DATA = [
       "BFS/DFS representation"
     ],
     "video": {
-      "title": "Graph Algorithms Capstone Project Explanation",
-      "url": "https://www.youtube.com/results?search_query=Graph%20Algorithms%20Capstone%20Project"
+      "title": "Graph Algorithms Capstone Project",
+      "url": "https://www.youtube.com/results?search_query=Graph%20Algorithms%20Capstone%20Project%20tutorial"
     },
     "problems": [],
     "practice_links": [],
@@ -2888,8 +2888,8 @@ const PREP_SHEET_DATA = [
       "Memoization (Top-down) vs Tabulation (Bottom-up)"
     ],
     "video": {
-      "title": "DP: Dynamic Programming Concepts Explanation",
-      "url": "https://www.youtube.com/results?search_query=DP%3A%20Dynamic%20Programming%20Concepts"
+      "title": "DP: Dynamic Programming Concepts",
+      "url": "https://www.youtube.com/results?search_query=DP%3A%20Dynamic%20Programming%20Concepts%20tutorial"
     },
     "problems": [
       {
@@ -2925,8 +2925,8 @@ const PREP_SHEET_DATA = [
       "Space optimization (reducing O(N) array to variables)"
     ],
     "video": {
-      "title": "DP: 1D Dynamic Programming Problems Explanation",
-      "url": "https://www.youtube.com/results?search_query=DP%3A%201D%20Dynamic%20Programming%20Problems"
+      "title": "DP: 1D Dynamic Programming Problems",
+      "url": "https://www.youtube.com/results?search_query=DP%3A%201D%20Dynamic%20Programming%20Problems%20tutorial"
     },
     "problems": [
       {
@@ -2963,8 +2963,8 @@ const PREP_SHEET_DATA = [
       "Minimum path sum in triangle/grid"
     ],
     "video": {
-      "title": "DP: 2D Grid DP Problems Explanation",
-      "url": "https://www.youtube.com/results?search_query=DP%3A%202D%20Grid%20DP%20Problems"
+      "title": "DP: 2D Grid DP Problems",
+      "url": "https://www.youtube.com/results?search_query=DP%3A%202D%20Grid%20DP%20Problems%20tutorial"
     },
     "problems": [
       {
@@ -3000,8 +3000,8 @@ const PREP_SHEET_DATA = [
       "Array index shift for weight dimensions"
     ],
     "video": {
-      "title": "DP: Knapsack Problems (0-1 Knapsack) Explanation",
-      "url": "https://www.youtube.com/results?search_query=DP%3A%20Knapsack%20Problems%20(0-1%20Knapsack)"
+      "title": "DP: Knapsack Problems (0-1 Knapsack)",
+      "url": "https://www.youtube.com/results?search_query=DP%3A%20Knapsack%20Problems%20(0-1%20Knapsack)%20tutorial"
     },
     "problems": [
       {
@@ -3031,8 +3031,8 @@ const PREP_SHEET_DATA = [
       "Optimizing state transitions"
     ],
     "video": {
-      "title": "DP: Unbounded Knapsack & Coin Change Explanation",
-      "url": "https://www.youtube.com/results?search_query=DP%3A%20Unbounded%20Knapsack%20%26%20Coin%20Change"
+      "title": "DP: Unbounded Knapsack & Coin Change",
+      "url": "https://www.youtube.com/results?search_query=DP%3A%20Unbounded%20Knapsack%20%26%20Coin%20Change%20tutorial"
     },
     "problems": [
       {
@@ -3068,8 +3068,8 @@ const PREP_SHEET_DATA = [
       "Shortest common supersequence"
     ],
     "video": {
-      "title": "DP: Longest Common Subsequence (LCS) Explanation",
-      "url": "https://www.youtube.com/results?search_query=DP%3A%20Longest%20Common%20Subsequence%20(LCS)"
+      "title": "DP: Longest Common Subsequence (LCS)",
+      "url": "https://www.youtube.com/results?search_query=DP%3A%20Longest%20Common%20Subsequence%20(LCS)%20tutorial"
     },
     "problems": [
       {
@@ -3106,8 +3106,8 @@ const PREP_SHEET_DATA = [
       "Russian Doll envelopes"
     ],
     "video": {
-      "title": "DP: Longest Increasing Subsequence (LIS) Explanation",
-      "url": "https://www.youtube.com/results?search_query=DP%3A%20Longest%20Increasing%20Subsequence%20(LIS)"
+      "title": "DP: Longest Increasing Subsequence (LIS)",
+      "url": "https://www.youtube.com/results?search_query=DP%3A%20Longest%20Increasing%20Subsequence%20(LIS)%20tutorial"
     },
     "problems": [
       {
@@ -3143,8 +3143,8 @@ const PREP_SHEET_DATA = [
       "Dynamic state arrays"
     ],
     "video": {
-      "title": "DP: Stock Purchase State Machines Explanation",
-      "url": "https://www.youtube.com/results?search_query=DP%3A%20Stock%20Purchase%20State%20Machines"
+      "title": "DP: Stock Purchase State Machines",
+      "url": "https://www.youtube.com/results?search_query=DP%3A%20Stock%20Purchase%20State%20Machines%20tutorial"
     },
     "problems": [
       {
@@ -3180,8 +3180,8 @@ const PREP_SHEET_DATA = [
       "Merging balloon elements"
     ],
     "video": {
-      "title": "DP: Interval DP & Matrix Chain Explanation",
-      "url": "https://www.youtube.com/results?search_query=DP%3A%20Interval%20DP%20%26%20Matrix%20Chain"
+      "title": "DP: Interval DP & Matrix Chain",
+      "url": "https://www.youtube.com/results?search_query=DP%3A%20Interval%20DP%20%26%20Matrix%20Chain%20tutorial"
     },
     "problems": [
       {
@@ -3211,8 +3211,8 @@ const PREP_SHEET_DATA = [
       "Sub-range caching"
     ],
     "video": {
-      "title": "DP: Partition DP & Palindromes Explanation",
-      "url": "https://www.youtube.com/results?search_query=DP%3A%20Partition%20DP%20%26%20Palindromes"
+      "title": "DP: Partition DP & Palindromes",
+      "url": "https://www.youtube.com/results?search_query=DP%3A%20Partition%20DP%20%26%20Palindromes%20tutorial"
     },
     "problems": [
       {
@@ -3242,8 +3242,8 @@ const PREP_SHEET_DATA = [
       "Independent set on trees"
     ],
     "video": {
-      "title": "DP: Tree DP & Graph DAG DP Explanation",
-      "url": "https://www.youtube.com/results?search_query=DP%3A%20Tree%20DP%20%26%20Graph%20DAG%20DP"
+      "title": "DP: Tree DP & Graph DAG DP",
+      "url": "https://www.youtube.com/results?search_query=DP%3A%20Tree%20DP%20%26%20Graph%20DAG%20DP%20tutorial"
     },
     "problems": [
       {
@@ -3273,8 +3273,8 @@ const PREP_SHEET_DATA = [
       "Hamiltonian path calculations"
     ],
     "video": {
-      "title": "DP: Bitmask Dynamic Programming Explanation",
-      "url": "https://www.youtube.com/results?search_query=DP%3A%20Bitmask%20Dynamic%20Programming"
+      "title": "DP: Bitmask Dynamic Programming",
+      "url": "https://www.youtube.com/results?search_query=DP%3A%20Bitmask%20Dynamic%20Programming%20tutorial"
     },
     "problems": [
       {
@@ -3304,8 +3304,8 @@ const PREP_SHEET_DATA = [
       "Optimization models"
     ],
     "video": {
-      "title": "Dynamic Programming Capstone Project Explanation",
-      "url": "https://www.youtube.com/results?search_query=Dynamic%20Programming%20Capstone%20Project"
+      "title": "Dynamic Programming Capstone Project",
+      "url": "https://www.youtube.com/results?search_query=Dynamic%20Programming%20Capstone%20Project%20tutorial"
     },
     "problems": [],
     "practice_links": [],
@@ -3338,8 +3338,8 @@ const PREP_SHEET_DATA = [
       "Dynamic inserts and prefix matching"
     ],
     "video": {
-      "title": "Tries: Basic Node Structures & Operations Explanation",
-      "url": "https://www.youtube.com/results?search_query=Tries%3A%20Basic%20Node%20Structures%20%26%20Operations"
+      "title": "Tries: Basic Node Structures & Operations",
+      "url": "https://www.youtube.com/results?search_query=Tries%3A%20Basic%20Node%20Structures%20%26%20Operations%20tutorial"
     },
     "problems": [
       {
@@ -3375,8 +3375,8 @@ const PREP_SHEET_DATA = [
       "BFS/DFS searches over trie nodes"
     ],
     "video": {
-      "title": "Tries: Advanced Prefix Search & Word Break Explanation",
-      "url": "https://www.youtube.com/results?search_query=Tries%3A%20Advanced%20Prefix%20Search%20%26%20Word%20Break"
+      "title": "Tries: Advanced Prefix Search & Word Break",
+      "url": "https://www.youtube.com/results?search_query=Tries%3A%20Advanced%20Prefix%20Search%20%26%20Word%20Break%20tutorial"
     },
     "problems": [
       {
@@ -3406,8 +3406,8 @@ const PREP_SHEET_DATA = [
       "Finding maximum XOR pair in array"
     ],
     "video": {
-      "title": "Tries: Bitwise / XOR Tries Explanation",
-      "url": "https://www.youtube.com/results?search_query=Tries%3A%20Bitwise%20%2F%20XOR%20Tries"
+      "title": "Tries: Bitwise / XOR Tries",
+      "url": "https://www.youtube.com/results?search_query=Tries%3A%20Bitwise%20%2F%20XOR%20Tries%20tutorial"
     },
     "problems": [
       {
@@ -3437,8 +3437,8 @@ const PREP_SHEET_DATA = [
       "Clearing, setting, toggling specific bits"
     ],
     "video": {
-      "title": "Bit Manipulation: Bitwise Basics Explanation",
-      "url": "https://www.youtube.com/results?search_query=Bit%20Manipulation%3A%20Bitwise%20Basics"
+      "title": "Bit Manipulation: Bitwise Basics",
+      "url": "https://www.youtube.com/results?search_query=Bit%20Manipulation%3A%20Bitwise%20Basics%20tutorial"
     },
     "problems": [
       {
@@ -3481,8 +3481,8 @@ const PREP_SHEET_DATA = [
       "Bit masking for sets"
     ],
     "video": {
-      "title": "Bit Manipulation: Subsets & Math Hacks Explanation",
-      "url": "https://www.youtube.com/results?search_query=Bit%20Manipulation%3A%20Subsets%20%26%20Math%20Hacks"
+      "title": "Bit Manipulation: Subsets & Math Hacks",
+      "url": "https://www.youtube.com/results?search_query=Bit%20Manipulation%3A%20Subsets%20%26%20Math%20Hacks%20tutorial"
     },
     "problems": [
       {
@@ -3518,8 +3518,8 @@ const PREP_SHEET_DATA = [
       "Hard recursion"
     ],
     "video": {
-      "title": "Advanced DSA Review Day Explanation",
-      "url": "https://www.youtube.com/results?search_query=Advanced%20DSA%20Review%20Day"
+      "title": "Advanced DSA Review Day",
+      "url": "https://www.youtube.com/results?search_query=Advanced%20DSA%20Review%20Day%20tutorial"
     },
     "problems": [
       {
@@ -3549,8 +3549,8 @@ const PREP_SHEET_DATA = [
       "Clean code patterns"
     ],
     "video": {
-      "title": "Advanced DSA Mock Assessment Explanation",
-      "url": "https://www.youtube.com/results?search_query=Advanced%20DSA%20Mock%20Assessment"
+      "title": "Advanced DSA Mock Assessment",
+      "url": "https://www.youtube.com/results?search_query=Advanced%20DSA%20Mock%20Assessment%20tutorial"
     },
     "problems": [
       {
@@ -3580,8 +3580,8 @@ const PREP_SHEET_DATA = [
       "Infinite recursive bounds"
     ],
     "video": {
-      "title": "Debugging Advanced Code Bases Explanation",
-      "url": "https://www.youtube.com/results?search_query=Debugging%20Advanced%20Code%20Bases"
+      "title": "Debugging Advanced Code Bases",
+      "url": "https://www.youtube.com/results?search_query=Debugging%20Advanced%20Code%20Bases%20tutorial"
     },
     "problems": [
       {
@@ -3611,8 +3611,8 @@ const PREP_SHEET_DATA = [
       "State Pattern"
     ],
     "video": {
-      "title": "Advanced OOP Patterns with DSA Explanation",
-      "url": "https://www.youtube.com/results?search_query=Advanced%20OOP%20Patterns%20with%20DSA"
+      "title": "Advanced OOP Patterns with DSA",
+      "url": "https://www.youtube.com/results?search_query=Advanced%20OOP%20Patterns%20with%20DSA%20tutorial"
     },
     "problems": [
       {
@@ -3642,8 +3642,8 @@ const PREP_SHEET_DATA = [
       "BlockingQueue internals"
     ],
     "video": {
-      "title": "High Performance Data structures Explanation",
-      "url": "https://www.youtube.com/results?search_query=High%20Performance%20Data%20structures"
+      "title": "High Performance Data structures",
+      "url": "https://www.youtube.com/results?search_query=High%20Performance%20Data%20structures%20tutorial"
     },
     "problems": [
       {
@@ -3673,15 +3673,22 @@ const PREP_SHEET_DATA = [
       "Single-point failure analysis"
     ],
     "video": {
-      "title": "System Design: Micro-architecting Explanation",
-      "url": "https://www.youtube.com/results?search_query=System%20Design%3A%20Micro-architecting"
+      "title": "System Design: Micro-architecting",
+      "url": "https://www.youtube.com/results?search_query=System%20Design%3A%20Micro-architecting%20tutorial"
     },
-    "problems": [],
+    "problems": [
+      {
+        "name": "Design Twitter",
+        "platform": "LeetCode",
+        "url": "https://leetcode.com/problems/design-twitter/",
+        "difficulty": "Medium"
+      }
+    ],
     "practice_links": [],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -3697,15 +3704,22 @@ const PREP_SHEET_DATA = [
       "Columnar stores for Analytics"
     ],
     "video": {
-      "title": "System Design: Database Selections Explanation",
-      "url": "https://www.youtube.com/results?search_query=System%20Design%3A%20Database%20Selections"
+      "title": "System Design: Database Selections",
+      "url": "https://www.youtube.com/results?search_query=System%20Design%3A%20Database%20Selections%20tutorial"
     },
-    "problems": [],
+    "problems": [
+      {
+        "name": "Design Circular Queue",
+        "platform": "LeetCode",
+        "url": "https://leetcode.com/problems/design-circular-queue/",
+        "difficulty": "Medium"
+      }
+    ],
     "practice_links": [],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -3721,15 +3735,22 @@ const PREP_SHEET_DATA = [
       "Cache evictions"
     ],
     "video": {
-      "title": "System Design: Cache Architectures Explanation",
-      "url": "https://www.youtube.com/results?search_query=System%20Design%3A%20Cache%20Architectures"
+      "title": "System Design: Cache Architectures",
+      "url": "https://www.youtube.com/results?search_query=System%20Design%3A%20Cache%20Architectures%20tutorial"
     },
-    "problems": [],
+    "problems": [
+      {
+        "name": "Min Stack",
+        "platform": "LeetCode",
+        "url": "https://leetcode.com/problems/min-stack/",
+        "difficulty": "Medium"
+      }
+    ],
     "practice_links": [],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -3745,15 +3766,22 @@ const PREP_SHEET_DATA = [
       "IP Hashing"
     ],
     "video": {
-      "title": "System Design: Load Balancers Explanation",
-      "url": "https://www.youtube.com/results?search_query=System%20Design%3A%20Load%20Balancers"
+      "title": "System Design: Load Balancers",
+      "url": "https://www.youtube.com/results?search_query=System%20Design%3A%20Load%20Balancers%20tutorial"
     },
-    "problems": [],
+    "problems": [
+      {
+        "name": "Design Circular Queue",
+        "platform": "LeetCode",
+        "url": "https://leetcode.com/problems/design-circular-queue/",
+        "difficulty": "Medium"
+      }
+    ],
     "practice_links": [],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -3769,15 +3797,22 @@ const PREP_SHEET_DATA = [
       "Kafka consumer groups"
     ],
     "video": {
-      "title": "System Design: Message Queue Patterns Explanation",
-      "url": "https://www.youtube.com/results?search_query=System%20Design%3A%20Message%20Queue%20Patterns"
+      "title": "System Design: Message Queue Patterns",
+      "url": "https://www.youtube.com/results?search_query=System%20Design%3A%20Message%20Queue%20Patterns%20tutorial"
     },
-    "problems": [],
+    "problems": [
+      {
+        "name": "Design Twitter",
+        "platform": "LeetCode",
+        "url": "https://leetcode.com/problems/design-twitter/",
+        "difficulty": "Medium"
+      }
+    ],
     "practice_links": [],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -3794,8 +3829,8 @@ const PREP_SHEET_DATA = [
       "Concurrency rules"
     ],
     "video": {
-      "title": "LLD: Parking Lot System Design Tutorial",
-      "url": "https://www.youtube.com/watch?v=tVRyb4HaRYo"
+      "title": "LLD: Parking Lot System Design",
+      "url": "https://www.youtube.com/results?search_query=LLD%3A%20Parking%20Lot%20System%20Design%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -3823,8 +3858,8 @@ const PREP_SHEET_DATA = [
       "Payment integration design"
     ],
     "video": {
-      "title": "LLD: Movie Ticket Booking (BookMyShow) Tutorial",
-      "url": "https://www.youtube.com/watch?v=lT4V439KOpA"
+      "title": "LLD: Movie Ticket Booking (BookMyShow)",
+      "url": "https://www.youtube.com/results?search_query=LLD%3A%20Movie%20Ticket%20Booking%20(BookMyShow)%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -3852,8 +3887,8 @@ const PREP_SHEET_DATA = [
       "Balancing transaction flow"
     ],
     "video": {
-      "title": "LLD: Splitwise / Expense Sharing App Tutorial",
-      "url": "https://www.youtube.com/watch?v=apMqPE5JjLY"
+      "title": "LLD: Splitwise / Expense Sharing App",
+      "url": "https://www.youtube.com/results?search_query=LLD%3A%20Splitwise%20%2F%20Expense%20Sharing%20App%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -3881,8 +3916,8 @@ const PREP_SHEET_DATA = [
       "Dynamic voting and tags"
     ],
     "video": {
-      "title": "LLD: Stack Overflow / Q&A Platform Tutorial",
-      "url": "https://www.youtube.com/watch?v=vV7VwB6Z9_s"
+      "title": "LLD: Stack Overflow / Q&A Platform",
+      "url": "https://www.youtube.com/results?search_query=LLD%3A%20Stack%20Overflow%20%2F%20Q%26A%20Platform%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -3910,8 +3945,8 @@ const PREP_SHEET_DATA = [
       "UML structures"
     ],
     "video": {
-      "title": "LLD Capstone Project Day Tutorial",
-      "url": "https://www.youtube.com/watch?v=J32jh5fU9S0"
+      "title": "LLD Capstone Project Day",
+      "url": "https://www.youtube.com/results?search_query=LLD%20Capstone%20Project%20Day%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -3949,8 +3984,8 @@ const PREP_SHEET_DATA = [
       "Latency, throughput, SLAs"
     ],
     "video": {
-      "title": "HLD: High Level Architecture Foundations Tutorial",
-      "url": "https://www.youtube.com/watch?v=SqcXyztTikM"
+      "title": "HLD: High Level Architecture Foundations",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20High%20Level%20Architecture%20Foundations%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -3979,8 +4014,8 @@ const PREP_SHEET_DATA = [
       "Consistent Hashing ring"
     ],
     "video": {
-      "title": "HLD: Database Partitioning & Sharding Tutorial",
-      "url": "https://www.youtube.com/watch?v=5faMjKuB9bc"
+      "title": "HLD: Database Partitioning & Sharding",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20Database%20Partitioning%20%26%20Sharding%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4008,8 +4043,8 @@ const PREP_SHEET_DATA = [
       "NoSQL stores classifications"
     ],
     "video": {
-      "title": "HLD: CAP Theorem & PACELC Tutorial",
-      "url": "https://www.youtube.com/watch?v=k-Yaq8AH194"
+      "title": "HLD: CAP Theorem & PACELC",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20CAP%20Theorem%20%26%20PACELC%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4037,8 +4072,8 @@ const PREP_SHEET_DATA = [
       "Eviction policies (LRU, LFU)"
     ],
     "video": {
-      "title": "HLD: Caching Strategies & Systems Tutorial",
-      "url": "https://www.youtube.com/watch?v=U3RkDLtS7uY"
+      "title": "HLD: Caching Strategies & Systems",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20Caching%20Strategies%20%26%20Systems%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4066,8 +4101,8 @@ const PREP_SHEET_DATA = [
       "Layer 4 vs Layer 7 routing"
     ],
     "video": {
-      "title": "HLD: Load Balancers & Reverse Proxies Tutorial",
-      "url": "https://www.youtube.com/watch?v=K0Ta65OqQkY"
+      "title": "HLD: Load Balancers & Reverse Proxies",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20Load%20Balancers%20%26%20Reverse%20Proxies%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4096,8 +4131,8 @@ const PREP_SHEET_DATA = [
       "Consumer Groups & offsets"
     ],
     "video": {
-      "title": "HLD: Message Queues & Event Streaming Tutorial",
-      "url": "https://www.youtube.com/watch?v=8VzR-L13zPQ"
+      "title": "HLD: Message Queues & Event Streaming",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20Message%20Queues%20%26%20Event%20Streaming%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4126,8 +4161,8 @@ const PREP_SHEET_DATA = [
       "DB schema choice"
     ],
     "video": {
-      "title": "HLD: Designing a URL Shortener (TinyURL) Tutorial",
-      "url": "https://www.youtube.com/watch?v=fMZMm_1Vd68"
+      "title": "HLD: Designing a URL Shortener (TinyURL)",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20Designing%20a%20URL%20Shortener%20(TinyURL)%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4156,8 +4191,8 @@ const PREP_SHEET_DATA = [
       "Cassandra vs DynamoDB"
     ],
     "video": {
-      "title": "HLD: Designing a Chat Application (WhatsApp) Tutorial",
-      "url": "https://www.youtube.com/watch?v=vvhC64hQZMk"
+      "title": "HLD: Designing a Chat Application (WhatsApp)",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20Designing%20a%20Chat%20Application%20(WhatsApp)%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4185,8 +4220,8 @@ const PREP_SHEET_DATA = [
       "Distributed rate limiting with Redis"
     ],
     "video": {
-      "title": "HLD: Designing a Rate Limiter Tutorial",
-      "url": "https://www.youtube.com/watch?v=CRGPbCbR1DA"
+      "title": "HLD: Designing a Rate Limiter",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20Designing%20a%20Rate%20Limiter%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4215,8 +4250,8 @@ const PREP_SHEET_DATA = [
       "Redis caching"
     ],
     "video": {
-      "title": "HLD: Designing a News Feed System Tutorial",
-      "url": "https://www.youtube.com/watch?v=YzQt8T97gLo"
+      "title": "HLD: Designing a News Feed System",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20Designing%20a%20News%20Feed%20System%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4245,8 +4280,8 @@ const PREP_SHEET_DATA = [
       "Saga Pattern"
     ],
     "video": {
-      "title": "HLD: Database Replication & Transactions Tutorial",
-      "url": "https://www.youtube.com/watch?v=sOsk7eShLRY"
+      "title": "HLD: Database Replication & Transactions",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20Database%20Replication%20%26%20Transactions%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4274,8 +4309,8 @@ const PREP_SHEET_DATA = [
       "IP Whitelisting, SSL offloading"
     ],
     "video": {
-      "title": "HLD: System Security & API Gateways Tutorial",
-      "url": "https://www.youtube.com/watch?v=v3dM-1bS6-E"
+      "title": "HLD: System Security & API Gateways",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20System%20Security%20%26%20API%20Gateways%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4304,8 +4339,8 @@ const PREP_SHEET_DATA = [
       "Push vs Pull CDN"
     ],
     "video": {
-      "title": "HLD: DNS & CDN Architectures Tutorial",
-      "url": "https://www.youtube.com/watch?v=RI9np1LWzqw"
+      "title": "HLD: DNS & CDN Architectures",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20DNS%20%26%20CDN%20Architectures%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4334,8 +4369,8 @@ const PREP_SHEET_DATA = [
       "Flickr Ticket Server"
     ],
     "video": {
-      "title": "HLD: Distributed Unique ID Generation Tutorial",
-      "url": "https://www.youtube.com/watch?v=eB1xN-6z_iM"
+      "title": "HLD: Distributed Unique ID Generation",
+      "url": "https://www.youtube.com/results?search_query=HLD%3A%20Distributed%20Unique%20ID%20Generation%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4363,8 +4398,8 @@ const PREP_SHEET_DATA = [
       "Flow diagrams"
     ],
     "video": {
-      "title": "HLD Capstone Project Day Tutorial",
-      "url": "https://www.youtube.com/watch?v=K33054Cl1gU"
+      "title": "HLD Capstone Project Day",
+      "url": "https://www.youtube.com/results?search_query=HLD%20Capstone%20Project%20Day%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4404,7 +4439,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Spring Framework Core: IoC & DI",
-      "url": "https://www.youtube.com/watch?v=35EQXmHKZYs"
+      "url": "https://www.youtube.com/results?search_query=Spring%20Framework%20Core%3A%20IoC%20%26%20DI%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4430,11 +4465,11 @@ const PREP_SHEET_DATA = [
     "subtopics": [
       "Starter dependencies",
       "Auto-configuration internals",
-      "application.properties/yml"
+      "application.properties/yml configurations"
     ],
     "video": {
       "title": "Spring Boot Foundations & AutoConfig",
-      "url": "https://www.youtube.com/watch?v=vtPkZShrvZI"
+      "url": "https://www.youtube.com/results?search_query=Spring%20Boot%20Foundations%20%26%20AutoConfig%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4462,11 +4497,11 @@ const PREP_SHEET_DATA = [
       "@RequestMapping",
       "PathVariables",
       "RequestParams",
-      "ResponseEntity"
+      "ResponseEntity DTOs"
     ],
     "video": {
       "title": "Spring MVC & REST Controller Design",
-      "url": "https://www.youtube.com/watch?v=Ke5N1c_V5Zg"
+      "url": "https://www.youtube.com/results?search_query=Spring%20MVC%20%26%20REST%20Controller%20Design%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4488,16 +4523,15 @@ const PREP_SHEET_DATA = [
     "week": 20,
     "phase": "Phase 5: Specialization Track",
     "track": "sde",
-    "topic": "Spring Data JPA & Hibernate Internals",
+    "topic": "Spring Boot Validation & Exception Handling",
     "subtopics": [
-      "Entity mapping",
-      "Repositories",
-      "N+1 query problem",
-      "Caching in Hibernate"
+      "@Valid, @NotNull annotations",
+      "GlobalExceptionHandler using @ControllerAdvice",
+      "BindingResult mapping"
     ],
     "video": {
-      "title": "Spring Data JPA & Hibernate Internals",
-      "url": "https://www.youtube.com/watch?v=b4bY5rE_2W8"
+      "title": "Spring Boot Validation & Exception Handling",
+      "url": "https://www.youtube.com/results?search_query=Spring%20Boot%20Validation%20%26%20Exception%20Handling%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4519,14 +4553,15 @@ const PREP_SHEET_DATA = [
     "week": 20,
     "phase": "Phase 5: Specialization Track",
     "track": "sde",
-    "topic": "Spring Boot Validation & Exception Handling",
+    "topic": "Spring Data JPA & Entity Mappings",
     "subtopics": [
-      "@Valid, @NotNull",
-      "GlobalExceptionHandler using @ControllerAdvice"
+      "Entity declarations",
+      "OneToMany / ManyToOne mappings",
+      "Repository Query Methods"
     ],
     "video": {
-      "title": "Spring Boot Validation & Exception Handling",
-      "url": "https://www.youtube.com/watch?v=gS8N3mHhCsw"
+      "title": "Spring Data JPA & Entity Mappings",
+      "url": "https://www.youtube.com/results?search_query=Spring%20Data%20JPA%20%26%20Entity%20Mappings%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4548,14 +4583,16 @@ const PREP_SHEET_DATA = [
     "week": 20,
     "phase": "Phase 5: Specialization Track",
     "track": "sde",
-    "topic": "Microservices: Service Discovery (Eureka)",
+    "topic": "Hibernate Internals & Transaction Propagation",
     "subtopics": [
-      "Monolith vs Microservices",
-      "Eureka Client/Server setup"
+      "Lazy loading vs Eager loading",
+      "Dirty checking",
+      "L1/L2 Caches",
+      "@Transactional propagation rules"
     ],
     "video": {
-      "title": "Microservices: Service Discovery (Eureka)",
-      "url": "https://www.youtube.com/watch?v=mSgC5cE7w-E"
+      "title": "Hibernate Internals & Transaction Propagation",
+      "url": "https://www.youtube.com/results?search_query=Hibernate%20Internals%20%26%20Transaction%20Propagation%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4577,15 +4614,16 @@ const PREP_SHEET_DATA = [
     "week": 20,
     "phase": "Phase 5: Specialization Track",
     "track": "sde",
-    "topic": "Microservices: API Gateway (Spring Cloud)",
+    "topic": "JPA Optimizations & HikariCP",
     "subtopics": [
-      "Request routing",
-      "Filter chains",
-      "Rate limiting at gateway"
+      "N+1 query problem",
+      "Join fetch optimizations",
+      "@EntityGraph",
+      "Hikari connection pool sizing"
     ],
     "video": {
-      "title": "Microservices: API Gateway (Spring Cloud)",
-      "url": "https://www.youtube.com/watch?v=1F2b8yS7zFw"
+      "title": "JPA Optimizations & HikariCP",
+      "url": "https://www.youtube.com/results?search_query=JPA%20Optimizations%20%26%20HikariCP%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4607,14 +4645,15 @@ const PREP_SHEET_DATA = [
     "week": 20,
     "phase": "Phase 5: Specialization Track",
     "track": "sde",
-    "topic": "Microservices: Inter-service communication",
+    "topic": "Database Schema Migrations",
     "subtopics": [
-      "RestTemplate vs WebClient vs OpenFeign",
-      "Synchronous vs Asynchronous messages"
+      "Flyway db versioning",
+      "Liquibase XML change-sets",
+      "Automated DB rollback strategies"
     ],
     "video": {
-      "title": "Microservices: Inter-service communication",
-      "url": "https://www.youtube.com/watch?v=5m5gC3yS7z8"
+      "title": "Database Schema Migrations",
+      "url": "https://www.youtube.com/results?search_query=Database%20Schema%20Migrations%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4636,15 +4675,15 @@ const PREP_SHEET_DATA = [
     "week": 20,
     "phase": "Phase 5: Specialization Track",
     "track": "sde",
-    "topic": "Spring Security & JWT Authentication",
+    "topic": "Spring Security Architecture",
     "subtopics": [
       "SecurityFilterChain",
-      "UserDetailsService",
-      "JWT creation, signing & verification"
+      "UserDetailsService authentication provider",
+      "Basic Auth vs Session Auth"
     ],
     "video": {
-      "title": "Spring Security & JWT Authentication",
-      "url": "https://www.youtube.com/watch?v=X80nJ5T7z8c"
+      "title": "Spring Security Architecture",
+      "url": "https://www.youtube.com/results?search_query=Spring%20Security%20Architecture%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4666,15 +4705,916 @@ const PREP_SHEET_DATA = [
     "week": 20,
     "phase": "Phase 5: Specialization Track",
     "track": "sde",
-    "topic": "Dockerizing Spring Boot Applications",
+    "topic": "Spring Security JWT Tokenization",
     "subtopics": [
-      "Writing Dockerfiles",
-      "Image caching layers",
-      "Docker Compose multi-container networks"
+      "Claims payloads creation",
+      "JWT Signature verification",
+      "Custom once-per-request authorization filter"
     ],
     "video": {
-      "title": "Dockerizing Spring Boot Applications",
-      "url": "https://www.youtube.com/watch?v=Fl_G4olZ7o0"
+      "title": "Spring Security JWT Tokenization",
+      "url": "https://www.youtube.com/results?search_query=Spring%20Security%20JWT%20Tokenization%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 141,
+    "week": 21,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Spring AOP & Custom Annotation",
+    "subtopics": [
+      "Aspects, Advices (Before, After, Around)",
+      "Pointcut expression syntax",
+      "Custom logging annotation creation"
+    ],
+    "video": {
+      "title": "Spring AOP & Custom Annotation",
+      "url": "https://www.youtube.com/results?search_query=Spring%20AOP%20%26%20Custom%20Annotation%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 142,
+    "week": 21,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Spring Caching & Redis Integration",
+    "subtopics": [
+      "@Cacheable, @CachePut, @CacheEvict",
+      "Redis configuration properties",
+      "Object serialization keys"
+    ],
+    "video": {
+      "title": "Spring Caching & Redis Integration",
+      "url": "https://www.youtube.com/results?search_query=Spring%20Caching%20%26%20Redis%20Integration%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 143,
+    "week": 21,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Testing in Spring Boot: JUnit 5 & Mockito",
+    "subtopics": [
+      "Unit tests with @ExtendWith(MockitoExtension.class)",
+      "Mocking dependencies with @Mock",
+      "MockMvc controller validation"
+    ],
+    "video": {
+      "title": "Testing in Spring Boot: JUnit 5 & Mockito",
+      "url": "https://www.youtube.com/results?search_query=Testing%20in%20Spring%20Boot%3A%20JUnit%205%20%26%20Mockito%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 144,
+    "week": 21,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Integration Testing: Testcontainers",
+    "subtopics": [
+      "Spinning up ephemeral docker containers in tests",
+      "PostgreSQL container integration",
+      "Dynamic property registry"
+    ],
+    "video": {
+      "title": "Integration Testing: Testcontainers",
+      "url": "https://www.youtube.com/results?search_query=Integration%20Testing%3A%20Testcontainers%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 145,
+    "week": 21,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Spring Boot Actuator & Metrics",
+    "subtopics": [
+      "Actuator endpoints mapping",
+      "Health indicators customization",
+      "Prometheus and Grafana setups"
+    ],
+    "video": {
+      "title": "Spring Boot Actuator & Metrics",
+      "url": "https://www.youtube.com/results?search_query=Spring%20Boot%20Actuator%20%26%20Metrics%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 146,
+    "week": 21,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Microservices Foundations & Decoupling",
+    "subtopics": [
+      "Decomposing monoliths",
+      "Database-per-service patterns",
+      "Shared DB pitfalls",
+      "Event-driven microservices"
+    ],
+    "video": {
+      "title": "Microservices Foundations & Decoupling",
+      "url": "https://www.youtube.com/results?search_query=Microservices%20Foundations%20%26%20Decoupling%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 147,
+    "week": 21,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Service Discovery: Netflix Eureka",
+    "subtopics": [
+      "Eureka Server configuration",
+      "Eureka Client registration",
+      "Heartbeats and instance renewing"
+    ],
+    "video": {
+      "title": "Service Discovery: Netflix Eureka",
+      "url": "https://www.youtube.com/results?search_query=Service%20Discovery%3A%20Netflix%20Eureka%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 148,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "API Gateway: Spring Cloud Gateway",
+    "subtopics": [
+      "Declarative route configuration",
+      "Predicates and Filters",
+      "Token relay validation",
+      "Gateway rate limiting"
+    ],
+    "video": {
+      "title": "API Gateway: Spring Cloud Gateway",
+      "url": "https://www.youtube.com/results?search_query=API%20Gateway%3A%20Spring%20Cloud%20Gateway%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 149,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Centralized Configuration: Config Server",
+    "subtopics": [
+      "Spring Cloud Config Git-backend",
+      "Shared configurations",
+      "@RefreshScope dynamic configurations reload"
+    ],
+    "video": {
+      "title": "Centralized Configuration: Config Server",
+      "url": "https://www.youtube.com/results?search_query=Centralized%20Configuration%3A%20Config%20Server%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 150,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Inter-Service Communication: Feign Client",
+    "subtopics": [
+      "Declarative REST Client setup",
+      "OpenFeign error decoder configuration",
+      "Load balancer integrations"
+    ],
+    "video": {
+      "title": "Inter-Service Communication: Feign Client",
+      "url": "https://www.youtube.com/results?search_query=Inter-Service%20Communication%3A%20Feign%20Client%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 151,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Resiliency Patterns: Circuit Breakers",
+    "subtopics": [
+      "Resilience4j CircuitBreaker setup",
+      "Failure rate thresholds",
+      "Fallback method executions"
+    ],
+    "video": {
+      "title": "Resiliency Patterns: Circuit Breakers",
+      "url": "https://www.youtube.com/results?search_query=Resiliency%20Patterns%3A%20Circuit%20Breakers%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 152,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Resiliency Patterns: Retry & Bulkheads",
+    "subtopics": [
+      "Resilience4j Retry strategies",
+      "RateLimiter algorithms",
+      "Bulkhead thread pool isolations"
+    ],
+    "video": {
+      "title": "Resiliency Patterns: Retry & Bulkheads",
+      "url": "https://www.youtube.com/results?search_query=Resiliency%20Patterns%3A%20Retry%20%26%20Bulkheads%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 153,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Distributed Tracing: Micrometer & Zipkin",
+    "subtopics": [
+      "TraceID and SpanID propagation",
+      "Zipkin dashboard analysis",
+      "Distributed HTTP request logs tracing"
+    ],
+    "video": {
+      "title": "Distributed Tracing: Micrometer & Zipkin",
+      "url": "https://www.youtube.com/results?search_query=Distributed%20Tracing%3A%20Micrometer%20%26%20Zipkin%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 154,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Event-Driven Microservices: Message Brokers",
+    "subtopics": [
+      "Asynchronous communications",
+      "Kafka vs RabbitMQ trade-offs",
+      "Message queue patterns"
+    ],
+    "video": {
+      "title": "Event-Driven Microservices: Message Brokers",
+      "url": "https://www.youtube.com/results?search_query=Event-Driven%20Microservices%3A%20Message%20Brokers%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 155,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Spring Kafka Integration",
+    "subtopics": [
+      "KafkaTemplate configurations",
+      "KafkaListener consumer mappings",
+      "Custom JSON serializers/deserializers"
+    ],
+    "video": {
+      "title": "Spring Kafka Integration",
+      "url": "https://www.youtube.com/results?search_query=Spring%20Kafka%20Integration%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 156,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Distributed Transactions: Saga Pattern",
+    "subtopics": [
+      "Orchestrator-based Saga routing",
+      "Choreography-based Saga event listeners",
+      "Compensating transactions"
+    ],
+    "video": {
+      "title": "Distributed Transactions: Saga Pattern",
+      "url": "https://www.youtube.com/results?search_query=Distributed%20Transactions%3A%20Saga%20Pattern%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 157,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Transactional Outbox Pattern & CDC",
+    "subtopics": [
+      "Outbox database tables",
+      "Change Data Capture (CDC)",
+      "Debezium broker setups",
+      "Exactly-once messaging"
+    ],
+    "video": {
+      "title": "Transactional Outbox Pattern & CDC",
+      "url": "https://www.youtube.com/results?search_query=Transactional%20Outbox%20Pattern%20%26%20CDC%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 158,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Docker Foundations: Containers vs VMs",
+    "subtopics": [
+      "Docker Engine architecture",
+      "Namespaces and Cgroups",
+      "Basic Docker commands (run, ps, exec)"
+    ],
+    "video": {
+      "title": "Docker Foundations: Containers vs VMs",
+      "url": "https://www.youtube.com/results?search_query=Docker%20Foundations%3A%20Containers%20vs%20VMs%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 159,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Dockerfile Optimizations & Java Runtimes",
+    "subtopics": [
+      "Multi-stage Docker builds",
+      "Caching layer commands",
+      "Alpine/Distroless JRE runtimes configurations"
+    ],
+    "video": {
+      "title": "Dockerfile Optimizations & Java Runtimes",
+      "url": "https://www.youtube.com/results?search_query=Dockerfile%20Optimizations%20%26%20Java%20Runtimes%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 160,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Docker Compose: Multi-Container Orchestration",
+    "subtopics": [
+      "Docker Compose YAML configurations",
+      "Depends_on healthcheck triggers",
+      "Multi-service environment variables"
+    ],
+    "video": {
+      "title": "Docker Compose: Multi-Container Orchestration",
+      "url": "https://www.youtube.com/results?search_query=Docker%20Compose%3A%20Multi-Container%20Orchestration%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 161,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Docker Networking & Volumes",
+    "subtopics": [
+      "Bridge vs Overlay network drivers",
+      "Bind mounts vs Named Volumes persistent storage"
+    ],
+    "video": {
+      "title": "Docker Networking & Volumes",
+      "url": "https://www.youtube.com/results?search_query=Docker%20Networking%20%26%20Volumes%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 162,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Container Registries & Image Push",
+    "subtopics": [
+      "Docker Hub configurations",
+      "Amazon ECR repository creation",
+      "Tagging and pushing docker images"
+    ],
+    "video": {
+      "title": "Container Registries & Image Push",
+      "url": "https://www.youtube.com/results?search_query=Container%20Registries%20%26%20Image%20Push%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 163,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Kubernetes Core Concepts",
+    "subtopics": [
+      "Control plane components (API Server, ETCD, Scheduler)",
+      "Worker nodes architecture",
+      "Kubelet and Kube-proxy"
+    ],
+    "video": {
+      "title": "Kubernetes Core Concepts",
+      "url": "https://www.youtube.com/results?search_query=Kubernetes%20Core%20Concepts%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 164,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Kubernetes Deployments & Rolling Updates",
+    "subtopics": [
+      "Writing Pod and Deployment manifests",
+      "ReplicaSet scaling",
+      "Zero-downtime rolling updates"
+    ],
+    "video": {
+      "title": "Kubernetes Deployments & Rolling Updates",
+      "url": "https://www.youtube.com/results?search_query=Kubernetes%20Deployments%20%26%20Rolling%20Updates%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 165,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Kubernetes Networking & Services",
+    "subtopics": [
+      "ClusterIP, NodePort, LoadBalancer",
+      "Ingress Controllers routing rules"
+    ],
+    "video": {
+      "title": "Kubernetes Networking & Services",
+      "url": "https://www.youtube.com/results?search_query=Kubernetes%20Networking%20%26%20Services%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 166,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Kubernetes Configurations: ConfigMaps & Secrets",
+    "subtopics": [
+      "Creating ConfigMaps",
+      "Decoding Base64 Secrets",
+      "Injecting configurations via volume mounts"
+    ],
+    "video": {
+      "title": "Kubernetes Configurations: ConfigMaps & Secrets",
+      "url": "https://www.youtube.com/results?search_query=Kubernetes%20Configurations%3A%20ConfigMaps%20%26%20Secrets%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 167,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "CI/CD Pipelines: GitHub Actions",
+    "subtopics": [
+      "Workflow YAML configurations",
+      "GitHub secrets parameters",
+      "Running JUnit tests and compiling Docker images"
+    ],
+    "video": {
+      "title": "CI/CD Pipelines: GitHub Actions",
+      "url": "https://www.youtube.com/results?search_query=CI%2FCD%20Pipelines%3A%20GitHub%20Actions%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 168,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Cloud Deployment: AWS ECS & Fargate",
+    "subtopics": [
+      "Amazon ECS Cluster configuration",
+      "Task Definitions mapping",
+      "AWS Fargate serverless hosting"
+    ],
+    "video": {
+      "title": "Cloud Deployment: AWS ECS & Fargate",
+      "url": "https://www.youtube.com/results?search_query=Cloud%20Deployment%3A%20AWS%20ECS%20%26%20Fargate%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 169,
+    "week": 25,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "Microservices Logging: ELK Stack",
+    "subtopics": [
+      "Logback appender configuration",
+      "Logstash indexing",
+      "Elasticsearch searches",
+      "Kibana dashboards"
+    ],
+    "video": {
+      "title": "Microservices Logging: ELK Stack",
+      "url": "https://www.youtube.com/results?search_query=Microservices%20Logging%3A%20ELK%20Stack%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "Baeldung Spring Guide",
+        "url": "https://www.baeldung.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 170,
+    "week": 25,
+    "phase": "Phase 5: Specialization Track",
+    "track": "sde",
+    "topic": "SDE Capstone Project Build Day",
+    "subtopics": [
+      "Multi-service integration",
+      "Eureka Gateway postgres setups"
+    ],
+    "video": {
+      "title": "SDE Capstone Project Build Day",
+      "url": "https://www.youtube.com/results?search_query=SDE%20Capstone%20Project%20Build%20Day%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4702,66 +5642,6 @@ const PREP_SHEET_DATA = [
     "estimatedHours": 6
   },
   {
-    "day": 141,
-    "week": 21,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "CI/CD Pipelines & Github Actions",
-    "subtopics": [
-      "CI/CD phases",
-      "Github Actions workflow YAML",
-      "Automatic builds and docker pushes"
-    ],
-    "video": {
-      "title": "CI/CD Pipelines & Github Actions",
-      "url": "https://www.youtube.com/watch?v=R8_veQiY7o0"
-    },
-    "problems": [],
-    "practice_links": [
-      {
-        "name": "Baeldung Spring Guide",
-        "url": "https://www.baeldung.com/"
-      }
-    ],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 100,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 142,
-    "week": 21,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Cloud Deployments (AWS Basics)",
-    "subtopics": [
-      "AWS EC2 instances",
-      "RDS instances",
-      "S3 file buckets setup"
-    ],
-    "video": {
-      "title": "Cloud Deployments (AWS Basics)",
-      "url": "https://www.youtube.com/watch?v=3S8S7z8o0F8"
-    },
-    "problems": [],
-    "practice_links": [
-      {
-        "name": "Baeldung Spring Guide",
-        "url": "https://www.baeldung.com/"
-      }
-    ],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 100,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
     "day": 131,
     "week": 19,
     "phase": "Phase 5: Specialization Track",
@@ -4774,7 +5654,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "SQL: Advanced Query Joins & Grouping",
-      "url": "https://www.youtube.com/watch?v=zJ0zN-R8y8c"
+      "url": "https://www.youtube.com/results?search_query=SQL%3A%20Advanced%20Query%20Joins%20%26%20Grouping%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4804,7 +5684,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "SQL: Indexing & Query Optimizations",
-      "url": "https://www.youtube.com/watch?v=FN50S8y8S78"
+      "url": "https://www.youtube.com/results?search_query=SQL%3A%20Indexing%20%26%20Query%20Optimizations%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4834,7 +5714,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Data Warehousing: Star vs Snowflake Schema",
-      "url": "https://www.youtube.com/watch?v=5m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=Data%20Warehousing%3A%20Star%20vs%20Snowflake%20Schema%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4864,7 +5744,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Hadoop Ecosystem: HDFS & MapReduce",
-      "url": "https://www.youtube.com/watch?v=1m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=Hadoop%20Ecosystem%3A%20HDFS%20%26%20MapReduce%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4893,7 +5773,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Apache Hive & Big Data SQL Engine",
-      "url": "https://www.youtube.com/watch?v=2m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=Apache%20Hive%20%26%20Big%20Data%20SQL%20Engine%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4923,7 +5803,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Apache Spark: RDDs & DataFrames",
-      "url": "https://www.youtube.com/watch?v=_C-DlC7z_kE"
+      "url": "https://www.youtube.com/results?search_query=Apache%20Spark%3A%20RDDs%20%26%20DataFrames%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4953,7 +5833,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Apache Spark SQL & Optimizations",
-      "url": "https://www.youtube.com/watch?v=3m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=Apache%20Spark%20SQL%20%26%20Optimizations%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -4983,7 +5863,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "ETL Pipelines: Python & Pandas/PySpark",
-      "url": "https://www.youtube.com/watch?v=4m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=ETL%20Pipelines%3A%20Python%20%26%20Pandas%2FPySpark%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5013,7 +5893,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Apache Kafka Event Streaming",
-      "url": "https://www.youtube.com/watch?v=5m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=Apache%20Kafka%20Event%20Streaming%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5043,7 +5923,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "ETL Scheduling: Apache Airflow Project Day",
-      "url": "https://www.youtube.com/watch?v=6m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=ETL%20Scheduling%3A%20Apache%20Airflow%20Project%20Day%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5082,7 +5962,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "NoSQL DBs: MongoDB & Cassandra",
-      "url": "https://www.youtube.com/watch?v=7m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=NoSQL%20DBs%3A%20MongoDB%20%26%20Cassandra%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5112,7 +5992,845 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Cloud Data Warehouses: Snowflake & BigQuery",
-      "url": "https://www.youtube.com/watch?v=8m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=Cloud%20Data%20Warehouses%3A%20Snowflake%20%26%20BigQuery%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 143,
+    "week": 21,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Spark Streaming & Real-Time Aggregation",
+    "subtopics": [
+      "Structured Streaming inputs",
+      "Window functions",
+      "Watermarking for late-arriving data"
+    ],
+    "video": {
+      "title": "Spark Streaming & Real-Time Aggregation",
+      "url": "https://www.youtube.com/results?search_query=Spark%20Streaming%20%26%20Real-Time%20Aggregation%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 144,
+    "week": 21,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Spark Tuning & Memory Management",
+    "subtopics": [
+      "Cluster sizing configurations",
+      "Storage vs Execution memory allocation",
+      "Garbage collection optimizations"
+    ],
+    "video": {
+      "title": "Spark Tuning & Memory Management",
+      "url": "https://www.youtube.com/results?search_query=Spark%20Tuning%20%26%20Memory%20Management%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 145,
+    "week": 21,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Modern Data Lakes: Delta Lake & Iceberg",
+    "subtopics": [
+      "ACID transaction logs on object storage",
+      "Time travel metadata",
+      "Schema enforcement features"
+    ],
+    "video": {
+      "title": "Modern Data Lakes: Delta Lake & Iceberg",
+      "url": "https://www.youtube.com/results?search_query=Modern%20Data%20Lakes%3A%20Delta%20Lake%20%26%20Iceberg%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 146,
+    "week": 21,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Data Quality & Validations",
+    "subtopics": [
+      "Great Expectations suite configuration",
+      "Data profiling pipelines",
+      "Automated QA alerts"
+    ],
+    "video": {
+      "title": "Data Quality & Validations",
+      "url": "https://www.youtube.com/results?search_query=Data%20Quality%20%26%20Validations%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 147,
+    "week": 21,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Snowflake Warehouses Architecture",
+    "subtopics": [
+      "Virtual warehouses billing",
+      "Multi-cluster scaling limits",
+      "Micro-partitions metadata"
+    ],
+    "video": {
+      "title": "Snowflake Warehouses Architecture",
+      "url": "https://www.youtube.com/results?search_query=Snowflake%20Warehouses%20Architecture%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 148,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Snowflake Advanced Operations",
+    "subtopics": [
+      "Zero-copy database cloning",
+      "Time Travel history data querying",
+      "Fail-safe architectures"
+    ],
+    "video": {
+      "title": "Snowflake Advanced Operations",
+      "url": "https://www.youtube.com/results?search_query=Snowflake%20Advanced%20Operations%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 149,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Google BigQuery Serverless Management",
+    "subtopics": [
+      "Slot allocations",
+      "Partitioning and clustering tables",
+      "Nested and repeated field optimizations"
+    ],
+    "video": {
+      "title": "Google BigQuery Serverless Management",
+      "url": "https://www.youtube.com/results?search_query=Google%20BigQuery%20Serverless%20Management%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 150,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Cassandra Partition Key Design",
+    "subtopics": [
+      "Cassandra distributed ring",
+      "Composite partition keys",
+      "Clustering columns sorting"
+    ],
+    "video": {
+      "title": "Cassandra Partition Key Design",
+      "url": "https://www.youtube.com/results?search_query=Cassandra%20Partition%20Key%20Design%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 151,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "MongoDB Document Schema Designing",
+    "subtopics": [
+      "Embedded document patterns",
+      "Database references (DBRefs)",
+      "Aggregation pipelines stages"
+    ],
+    "video": {
+      "title": "MongoDB Document Schema Designing",
+      "url": "https://www.youtube.com/results?search_query=MongoDB%20Document%20Schema%20Designing%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 152,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Data Ingestion Engines: Apache NiFi",
+    "subtopics": [
+      "FlowFile processors configurations",
+      "Data provenance trace mapping",
+      "Real-time stream ingests"
+    ],
+    "video": {
+      "title": "Data Ingestion Engines: Apache NiFi",
+      "url": "https://www.youtube.com/results?search_query=Data%20Ingestion%20Engines%3A%20Apache%20NiFi%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 153,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Data Build Tool (dbt): Transformations",
+    "subtopics": [
+      "SQL select models",
+      "dbt run configurations",
+      "Incremental model transformations"
+    ],
+    "video": {
+      "title": "Data Build Tool (dbt): Transformations",
+      "url": "https://www.youtube.com/results?search_query=Data%20Build%20Tool%20(dbt)%3A%20Transformations%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 154,
+    "week": 22,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "dbt Testing & Deployments",
+    "subtopics": [
+      "Schema assertion tests",
+      "Source freshness verifications",
+      "Static docs page compiling"
+    ],
+    "video": {
+      "title": "dbt Testing & Deployments",
+      "url": "https://www.youtube.com/results?search_query=dbt%20Testing%20%26%20Deployments%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 155,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Data Governance & Metadata Cataloging",
+    "subtopics": [
+      "Data catalog directories (Amundsen/DataHub)",
+      "Lineage mappings",
+      "Federated data governance models"
+    ],
+    "video": {
+      "title": "Data Governance & Metadata Cataloging",
+      "url": "https://www.youtube.com/results?search_query=Data%20Governance%20%26%20Metadata%20Cataloging%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 156,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Big Data Security Configurations",
+    "subtopics": [
+      "Column-level masking keys",
+      "RBAC data access controls",
+      "Encryption at rest"
+    ],
+    "video": {
+      "title": "Big Data Security Configurations",
+      "url": "https://www.youtube.com/results?search_query=Big%20Data%20Security%20Configurations%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 157,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "AWS Data Stack Integrations",
+    "subtopics": [
+      "AWS Glue metadata catalogs",
+      "Athena serverless SQL queries",
+      "Redshift data warehouses"
+    ],
+    "video": {
+      "title": "AWS Data Stack Integrations",
+      "url": "https://www.youtube.com/results?search_query=AWS%20Data%20Stack%20Integrations%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 158,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "GCP Data Stack: Dataproc & Dataflow",
+    "subtopics": [
+      "Managed Spark on Dataproc",
+      "Apache Beam streamings on Dataflow"
+    ],
+    "video": {
+      "title": "GCP Data Stack: Dataproc & Dataflow",
+      "url": "https://www.youtube.com/results?search_query=GCP%20Data%20Stack%3A%20Dataproc%20%26%20Dataflow%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 159,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Real-Time OLAP Analytics Engines",
+    "subtopics": [
+      "ClickHouse column indexing",
+      "Apache Druid sub-second query ingestion",
+      "Real-time analytics boards"
+    ],
+    "video": {
+      "title": "Real-Time OLAP Analytics Engines",
+      "url": "https://www.youtube.com/results?search_query=Real-Time%20OLAP%20Analytics%20Engines%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 160,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Spark on Kubernetes Deployments",
+    "subtopics": [
+      "Spark operator manifests configurations",
+      "Dynamic pod scaling limits",
+      "S3 object access storage configurations"
+    ],
+    "video": {
+      "title": "Spark on Kubernetes Deployments",
+      "url": "https://www.youtube.com/results?search_query=Spark%20on%20Kubernetes%20Deployments%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 161,
+    "week": 23,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Advanced ETL Data Pipeline Design",
+    "subtopics": [
+      "CDC pipelines",
+      "Backfill scripts creation",
+      "Distributed locks"
+    ],
+    "video": {
+      "title": "Advanced ETL Data Pipeline Design",
+      "url": "https://www.youtube.com/results?search_query=Advanced%20ETL%20Data%20Pipeline%20Design%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 162,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Incremental Loading & Data Deduplication",
+    "subtopics": [
+      "Upsert logic (Merge statements)",
+      "Handling source duplicate records",
+      "Tracking tables versioning"
+    ],
+    "video": {
+      "title": "Incremental Loading & Data Deduplication",
+      "url": "https://www.youtube.com/results?search_query=Incremental%20Loading%20%26%20Data%20Deduplication%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 163,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Restructuring Relational Databases to DW",
+    "subtopics": [
+      "Extracting OLTP databases",
+      "Converting schemas to OLAP",
+      "Dimensional modeling mappings"
+    ],
+    "video": {
+      "title": "Restructuring Relational Databases to DW",
+      "url": "https://www.youtube.com/results?search_query=Restructuring%20Relational%20Databases%20to%20DW%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 164,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "API Ingestions & Web Scraping",
+    "subtopics": [
+      "REST API token paginations",
+      "BeautifulSoup/Scrapy scrape routines",
+      "JSON payload flattening"
+    ],
+    "video": {
+      "title": "API Ingestions & Web Scraping",
+      "url": "https://www.youtube.com/results?search_query=API%20Ingestions%20%26%20Web%20Scraping%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 165,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Cloud Storage Bucket Structuring",
+    "subtopics": [
+      "Folder partitions conventions",
+      "AWS S3 lifecycle storage tier rules",
+      "Object archiving"
+    ],
+    "video": {
+      "title": "Cloud Storage Bucket Structuring",
+      "url": "https://www.youtube.com/results?search_query=Cloud%20Storage%20Bucket%20Structuring%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 166,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Big Data Resource Profiling",
+    "subtopics": [
+      "CPU bottlenecks detection",
+      "I/O network throttling",
+      "Profiling slow tasks"
+    ],
+    "video": {
+      "title": "Big Data Resource Profiling",
+      "url": "https://www.youtube.com/results?search_query=Big%20Data%20Resource%20Profiling%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 167,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "CI/CD Data Pipelines",
+    "subtopics": [
+      "Auto-running SQL Lints",
+      "Testing dbt schemas on commit",
+      "Dockerized Spark environments"
+    ],
+    "video": {
+      "title": "CI/CD Data Pipelines",
+      "url": "https://www.youtube.com/results?search_query=CI%2FCD%20Data%20Pipelines%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 168,
+    "week": 24,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Business Intelligence Integrations",
+    "subtopics": [
+      "Exposing data to Tableau/Superset",
+      "Custom query views optimization",
+      "Dashboard caching"
+    ],
+    "video": {
+      "title": "Business Intelligence Integrations",
+      "url": "https://www.youtube.com/results?search_query=Business%20Intelligence%20Integrations%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 169,
+    "week": 25,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Data Infrastructure Disaster Recovery",
+    "subtopics": [
+      "Database backup replication setups",
+      "S3 version restores",
+      "Failover routing"
+    ],
+    "video": {
+      "title": "Data Infrastructure Disaster Recovery",
+      "url": "https://www.youtube.com/results?search_query=Data%20Infrastructure%20Disaster%20Recovery%20tutorial"
+    },
+    "problems": [],
+    "practice_links": [
+      {
+        "name": "SQL Practice Platform",
+        "url": "https://www.sql-practice.com/"
+      }
+    ],
+    "project": null,
+    "xp": {
+      "learn": 100,
+      "practice": 100,
+      "mastery": 200
+    },
+    "estimatedHours": 4
+  },
+  {
+    "day": 170,
+    "week": 25,
+    "phase": "Phase 5: Specialization Track",
+    "track": "de",
+    "topic": "Data Engineering Master Capstone Day",
+    "subtopics": [
+      "Sizing clusters",
+      "Execution plans audit"
+    ],
+    "video": {
+      "title": "Data Engineering Master Capstone Day",
+      "url": "https://www.youtube.com/results?search_query=Data%20Engineering%20Master%20Capstone%20Day%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5142,7 +6860,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Python for AI: Advanced Python Constructs",
-      "url": "https://www.youtube.com/watch?v=8yS8z8o0F8c"
+      "url": "https://www.youtube.com/results?search_query=Python%20for%20AI%3A%20Advanced%20Python%20Constructs%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5172,7 +6890,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Data Manipulation: NumPy & Vectorization",
-      "url": "https://www.youtube.com/watch?v=9yS8z8o0F8c"
+      "url": "https://www.youtube.com/results?search_query=Data%20Manipulation%3A%20NumPy%20%26%20Vectorization%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5202,7 +6920,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Data Analysis: Pandas & Wrangling Data",
-      "url": "https://www.youtube.com/watch?v=10m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=Data%20Analysis%3A%20Pandas%20%26%20Wrangling%20Data%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5232,7 +6950,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Machine Learning: Supervised Models",
-      "url": "https://www.youtube.com/watch?v=11m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=Machine%20Learning%3A%20Supervised%20Models%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5262,7 +6980,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Deep Learning Foundations: Backpropagation",
-      "url": "https://www.youtube.com/watch?v=12m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=Deep%20Learning%20Foundations%3A%20Backpropagation%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5292,7 +7010,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Neural Networks with PyTorch",
-      "url": "https://www.youtube.com/watch?v=V_xro1icdDE"
+      "url": "https://www.youtube.com/results?search_query=Neural%20Networks%20with%20PyTorch%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5322,7 +7040,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Transformers & Attention Mechanism",
-      "url": "https://www.youtube.com/watch?v=SZOrELM4N2A"
+      "url": "https://www.youtube.com/results?search_query=Transformers%20%26%20Attention%20Mechanism%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5352,7 +7070,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Large Language Models (Hugging Face)",
-      "url": "https://www.youtube.com/watch?v=14m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=Large%20Language%20Models%20(Hugging%20Face)%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5382,7 +7100,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Retrieval-Augmented Generation (RAG)",
-      "url": "https://www.youtube.com/watch?v=15m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=Retrieval-Augmented%20Generation%20(RAG)%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5412,7 +7130,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "AI Agents: LangChain & Semantic Orchestration",
-      "url": "https://www.youtube.com/watch?v=16m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=AI%20Agents%3A%20LangChain%20%26%20Semantic%20Orchestration%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5452,7 +7170,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "ML Model Deployment: FastAPI & Docker",
-      "url": "https://www.youtube.com/watch?v=17m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=ML%20Model%20Deployment%3A%20FastAPI%20%26%20Docker%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5482,7 +7200,7 @@ const PREP_SHEET_DATA = [
     ],
     "video": {
       "title": "Vector Databases & Embedding Searches",
-      "url": "https://www.youtube.com/watch?v=18m8zJ8y8S78"
+      "url": "https://www.youtube.com/results?search_query=Vector%20Databases%20%26%20Embedding%20Searches%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -5503,123 +7221,28 @@ const PREP_SHEET_DATA = [
     "day": 143,
     "week": 21,
     "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 143",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 143,
-    "week": 21,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 143",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 143,
-    "week": 21,
-    "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 143",
+    "topic": "PyTorch GPU Acceleration: CUDA & MPS",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Transferring tensors to devices",
+      "Mixed-precision operations (AMP)",
+      "GPU memory optimizations"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "PyTorch GPU Acceleration: CUDA & MPS",
+      "url": "https://www.youtube.com/results?search_query=PyTorch%20GPU%20Acceleration%3A%20CUDA%20%26%20MPS%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 144,
-    "week": 21,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 144",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 144,
-    "week": 21,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 144",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -5629,72 +7252,27 @@ const PREP_SHEET_DATA = [
     "week": 21,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 144",
+    "topic": "Convolutional Neural Networks (CNNs)",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Convolutional layers kernel sizes",
+      "Max pooling",
+      "ResNet transfer learning model architectures"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Convolutional Neural Networks (CNNs)",
+      "url": "https://www.youtube.com/results?search_query=Convolutional%20Neural%20Networks%20(CNNs)%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 145,
-    "week": 21,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 145",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 145,
-    "week": 21,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 145",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -5704,72 +7282,27 @@ const PREP_SHEET_DATA = [
     "week": 21,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 145",
+    "topic": "Recurrent Neural Networks (RNNs & LSTMs)",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Sequence learning dimensions",
+      "Vanishing gradients solutions",
+      "Text generator architectures"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Recurrent Neural Networks (RNNs & LSTMs)",
+      "url": "https://www.youtube.com/results?search_query=Recurrent%20Neural%20Networks%20(RNNs%20%26%20LSTMs)%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 146,
-    "week": 21,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 146",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 146,
-    "week": 21,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 146",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -5779,72 +7312,27 @@ const PREP_SHEET_DATA = [
     "week": 21,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 146",
+    "topic": "Parameter-Efficient Fine-Tuning (PEFT)",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "LoRA matrix rank sizes",
+      "QLoRA bit weight quantizations",
+      "Adapter parameters updates"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Parameter-Efficient Fine-Tuning (PEFT)",
+      "url": "https://www.youtube.com/results?search_query=Parameter-Efficient%20Fine-Tuning%20(PEFT)%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 147,
-    "week": 21,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 147",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 147,
-    "week": 21,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 147",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -5854,72 +7342,27 @@ const PREP_SHEET_DATA = [
     "week": 21,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 147",
+    "topic": "LLM Model Formats & Quantization",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "GGUF CPU-native model hosting",
+      "GPTQ/AWQ GPU quantizations",
+      "Inference engines (llama.cpp)"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "LLM Model Formats & Quantization",
+      "url": "https://www.youtube.com/results?search_query=LLM%20Model%20Formats%20%26%20Quantization%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 148,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 148",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 148,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 148",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -5929,72 +7372,27 @@ const PREP_SHEET_DATA = [
     "week": 22,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 148",
+    "topic": "Advanced RAG Document Parsing",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Text chunking overlapping algorithms",
+      "Recursive parser layouts",
+      "Tables OCR parsing"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Advanced RAG Document Parsing",
+      "url": "https://www.youtube.com/results?search_query=Advanced%20RAG%20Document%20Parsing%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 149,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 149",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 149,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 149",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6004,72 +7402,27 @@ const PREP_SHEET_DATA = [
     "week": 22,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 149",
+    "topic": "Vector Index Types & Tuning",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "HNSW index graphs",
+      "IVF-Flat clusters",
+      "Filtering index metrics search queries"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Vector Index Types & Tuning",
+      "url": "https://www.youtube.com/results?search_query=Vector%20Index%20Types%20%26%20Tuning%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 150,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 150",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 150,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 150",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6079,72 +7432,27 @@ const PREP_SHEET_DATA = [
     "week": 22,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 150",
+    "topic": "Semantic Hybrid Query Architectures",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Dense embedding searches",
+      "BM25 keyword sparse retrievals",
+      "Reciprocal Rank Fusion (RRF)"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Semantic Hybrid Query Architectures",
+      "url": "https://www.youtube.com/results?search_query=Semantic%20Hybrid%20Query%20Architectures%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 151,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 151",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 151,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 151",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6154,72 +7462,27 @@ const PREP_SHEET_DATA = [
     "week": 22,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 151",
+    "topic": "RAG Retrieval Post-Processing",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Cohere/CrossEncoder Re-rankers",
+      "Query expansion LLM pipelines",
+      "Context compression rules"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "RAG Retrieval Post-Processing",
+      "url": "https://www.youtube.com/results?search_query=RAG%20Retrieval%20Post-Processing%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 152,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 152",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 152,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 152",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6229,72 +7492,27 @@ const PREP_SHEET_DATA = [
     "week": 22,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 152",
+    "topic": "Advanced Prompt Engineering Frameworks",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Few-Shot templates",
+      "Chain-of-Thought (CoT)",
+      "Self-consistency loops"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Advanced Prompt Engineering Frameworks",
+      "url": "https://www.youtube.com/results?search_query=Advanced%20Prompt%20Engineering%20Frameworks%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 153,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 153",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 153,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 153",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6304,72 +7522,27 @@ const PREP_SHEET_DATA = [
     "week": 22,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 153",
+    "topic": "AI Agents Decision Flow",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "ReAct loop architectures",
+      "Function tool calling parameters",
+      "Infinite agentic loop protections"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "AI Agents Decision Flow",
+      "url": "https://www.youtube.com/results?search_query=AI%20Agents%20Decision%20Flow%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 154,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 154",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 154,
-    "week": 22,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 154",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6379,72 +7552,27 @@ const PREP_SHEET_DATA = [
     "week": 22,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 154",
+    "topic": "Multi-Agent System Orchestrations",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "LangGraph state machines",
+      "AutoGen conversation exchanges",
+      "Hierarchical routing agents"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Multi-Agent System Orchestrations",
+      "url": "https://www.youtube.com/results?search_query=Multi-Agent%20System%20Orchestrations%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 155,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 155",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 155,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 155",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6454,72 +7582,27 @@ const PREP_SHEET_DATA = [
     "week": 23,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 155",
+    "topic": "AI Model Evaluations Frameworks",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "ROUGE and BLEU scoring",
+      "G-Eval custom prompts",
+      "LLM-as-a-Judge validation systems"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "AI Model Evaluations Frameworks",
+      "url": "https://www.youtube.com/results?search_query=AI%20Model%20Evaluations%20Frameworks%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 156,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 156",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 156,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 156",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6529,72 +7612,27 @@ const PREP_SHEET_DATA = [
     "week": 23,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 156",
+    "topic": "Async Model Servings in FastAPI",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Python asyncio keywords",
+      "Chunked SSE responses streaming",
+      "Background task worker threads"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Async Model Servings in FastAPI",
+      "url": "https://www.youtube.com/results?search_query=Async%20Model%20Servings%20in%20FastAPI%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 157,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 157",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 157,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 157",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6604,72 +7642,27 @@ const PREP_SHEET_DATA = [
     "week": 23,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 157",
+    "topic": "High Performance LLM Serving Engine",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "vLLM PagedAttention configuration",
+      "Continuous batching optimizations",
+      "Triton Server setups"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "High Performance LLM Serving Engine",
+      "url": "https://www.youtube.com/results?search_query=High%20Performance%20LLM%20Serving%20Engine%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 158,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 158",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 158,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 158",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6679,72 +7672,27 @@ const PREP_SHEET_DATA = [
     "week": 23,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 158",
+    "topic": "ML Experiment Tracking: MLflow",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Log metric charts",
+      "Registering inference models",
+      "Artifact outputs management"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "ML Experiment Tracking: MLflow",
+      "url": "https://www.youtube.com/results?search_query=ML%20Experiment%20Tracking%3A%20MLflow%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 159,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 159",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 159,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 159",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6754,72 +7702,27 @@ const PREP_SHEET_DATA = [
     "week": 23,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 159",
+    "topic": "Kubeflow Pipelines",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Workflow manifests pipelines",
+      "Data processing steps",
+      "Kubernetes cluster deployments"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Kubeflow Pipelines",
+      "url": "https://www.youtube.com/results?search_query=Kubeflow%20Pipelines%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 160,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 160",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 160,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 160",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6829,72 +7732,27 @@ const PREP_SHEET_DATA = [
     "week": 23,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 160",
+    "topic": "AWS SageMaker AI Deployment",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "SageMaker Model Training Estimators",
+      "Real-time endpoint endpoints",
+      "Serverless endpoints configurations"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "AWS SageMaker AI Deployment",
+      "url": "https://www.youtube.com/results?search_query=AWS%20SageMaker%20AI%20Deployment%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 161,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 161",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 161,
-    "week": 23,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 161",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6904,72 +7762,27 @@ const PREP_SHEET_DATA = [
     "week": 23,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 161",
+    "topic": "ML Systems Design Foundations",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Offline training architectures",
+      "Online inference APIs latency",
+      "Data drift monitoring metrics"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "ML Systems Design Foundations",
+      "url": "https://www.youtube.com/results?search_query=ML%20Systems%20Design%20Foundations%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 162,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 162",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 162,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 162",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -6979,72 +7792,27 @@ const PREP_SHEET_DATA = [
     "week": 24,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 162",
+    "topic": "Data Versioning in ML: DVC",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Git tracking data weights",
+      "DVC storage backends",
+      "Reproducible pipeline tracking"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Data Versioning in ML: DVC",
+      "url": "https://www.youtube.com/results?search_query=Data%20Versioning%20in%20ML%3A%20DVC%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 163,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 163",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 163,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 163",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -7054,72 +7822,27 @@ const PREP_SHEET_DATA = [
     "week": 24,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 163",
+    "topic": "Feature Stores Architecture",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Feast online Redis caches",
+      "Offline database tables",
+      "Serving dynamic feature vectors"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Feature Stores Architecture",
+      "url": "https://www.youtube.com/results?search_query=Feature%20Stores%20Architecture%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 164,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 164",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 164,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 164",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -7129,72 +7852,27 @@ const PREP_SHEET_DATA = [
     "week": 24,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 164",
+    "topic": "Computer Vision Object Detection Models",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "YOLO model structures",
+      "Bounding box intersection metrics (IoU)",
+      "Image segmentations"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Computer Vision Object Detection Models",
+      "url": "https://www.youtube.com/results?search_query=Computer%20Vision%20Object%20Detection%20Models%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 165,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 165",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 165,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 165",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -7204,72 +7882,27 @@ const PREP_SHEET_DATA = [
     "week": 24,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 165",
+    "topic": "Vision-Language Models (VLM) Architectures",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "CLIP embedding alignments",
+      "LLaVA image projection layers",
+      "Multimodal prompts"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Vision-Language Models (VLM) Architectures",
+      "url": "https://www.youtube.com/results?search_query=Vision-Language%20Models%20(VLM)%20Architectures%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 166,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 166",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 166,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 166",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -7279,72 +7912,27 @@ const PREP_SHEET_DATA = [
     "week": 24,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 166",
+    "topic": "Reinforcement Learning from Human Feedback",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "PPO algorithms",
+      "Direct Preference Optimization (DPO)",
+      "Reward model training"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Reinforcement Learning from Human Feedback",
+      "url": "https://www.youtube.com/results?search_query=Reinforcement%20Learning%20from%20Human%20Feedback%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 167,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 167",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 167,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 167",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -7354,72 +7942,27 @@ const PREP_SHEET_DATA = [
     "week": 24,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 167",
+    "topic": "CI/CD AI Pipelines",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Automated model validations",
+      "Pushing weights to Hugging Face Hub",
+      "GitHub Actions workflows"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "CI/CD AI Pipelines",
+      "url": "https://www.youtube.com/results?search_query=CI%2FCD%20AI%20Pipelines%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 168,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 168",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 168,
-    "week": 24,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 168",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -7429,72 +7972,27 @@ const PREP_SHEET_DATA = [
     "week": 24,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 168",
+    "topic": "Speech AI & Audio Processing",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Whisper model inferences",
+      "Spectrogram conversions",
+      "Text-to-Speech (TTS) pipelines"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Speech AI & Audio Processing",
+      "url": "https://www.youtube.com/results?search_query=Speech%20AI%20%26%20Audio%20Processing%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 169,
-    "week": 25,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 169",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 169,
-    "week": 25,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 169",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -7504,72 +8002,27 @@ const PREP_SHEET_DATA = [
     "week": 25,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 169",
+    "topic": "Explainable AI (XAI) Frameworks",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "SHAP values calculations",
+      "LIME model interpretations",
+      "Feature importance charts"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "Explainable AI (XAI) Frameworks",
+      "url": "https://www.youtube.com/results?search_query=Explainable%20AI%20(XAI)%20Frameworks%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 170,
-    "week": 25,
-    "phase": "Phase 5: Specialization Track",
-    "track": "sde",
-    "topic": "Advanced SDE topic - Day 170",
-    "subtopics": [
-      "Microservice scaling",
-      "Circuit breakers (Resilience4j)",
-      "Logging with ELK stack"
-    ],
-    "video": {
-      "title": "Microservices Resiliency Patterns",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
-      "mastery": 200
-    },
-    "estimatedHours": 4
-  },
-  {
-    "day": 170,
-    "week": 25,
-    "phase": "Phase 5: Specialization Track",
-    "track": "de",
-    "topic": "Advanced Data Eng topic - Day 170",
-    "subtopics": [
-      "Spark performance tuning",
-      "Data lakehouse (Delta Lake / Iceberg)",
-      "Data validation check (Great Expectations)"
-    ],
-    "video": {
-      "title": "Advanced Spark Tuning",
-      "url": "https://www.youtube.com/"
-    },
-    "problems": [],
-    "practice_links": [],
-    "project": null,
-    "xp": {
-      "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -7579,22 +8032,26 @@ const PREP_SHEET_DATA = [
     "week": 25,
     "phase": "Phase 5: Specialization Track",
     "track": "ai",
-    "topic": "Advanced AI Eng topic - Day 170",
+    "topic": "AI Engineering Master Graduation Project Day",
     "subtopics": [
-      "Fine-tuning Llama-3",
-      "Prompt engineering frameworks",
-      "Model distillation techniques"
+      "Scaling models pipelines",
+      "Metrics logs audits"
     ],
     "video": {
-      "title": "LLM Fine Tuning Tutorial",
-      "url": "https://www.youtube.com/"
+      "title": "AI Engineering Master Graduation Project Day",
+      "url": "https://www.youtube.com/results?search_query=AI%20Engineering%20Master%20Graduation%20Project%20Day%20tutorial"
     },
     "problems": [],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "name": "Kaggle ML Practice",
+        "url": "https://www.kaggle.com/"
+      }
+    ],
     "project": null,
     "xp": {
       "learn": 100,
-      "practice": 0,
+      "practice": 100,
       "mastery": 200
     },
     "estimatedHours": 4
@@ -7611,8 +8068,8 @@ const PREP_SHEET_DATA = [
       "Keywords for ATS clearance"
     ],
     "video": {
-      "title": "Resume Optimization & Resume Parsers (ATS) Preparation Guide",
-      "url": "https://www.youtube.com/results?search_query=Resume%20Optimization%20%26%20Resume%20Parsers%20(ATS)"
+      "title": "Resume Optimization & Resume Parsers (ATS)",
+      "url": "https://www.youtube.com/results?search_query=Resume%20Optimization%20%26%20Resume%20Parsers%20(ATS)%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -7641,8 +8098,8 @@ const PREP_SHEET_DATA = [
       "Creating deployment demos"
     ],
     "video": {
-      "title": "GitHub Profile & Portfolio Showcase Preparation Guide",
-      "url": "https://www.youtube.com/results?search_query=GitHub%20Profile%20%26%20Portfolio%20Showcase"
+      "title": "GitHub Profile & Portfolio Showcase",
+      "url": "https://www.youtube.com/results?search_query=GitHub%20Profile%20%26%20Portfolio%20Showcase%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -7671,8 +8128,8 @@ const PREP_SHEET_DATA = [
       "Project failure learnings stories"
     ],
     "video": {
-      "title": "Behavioral Interviews: STAR Method Preparation Guide",
-      "url": "https://www.youtube.com/results?search_query=Behavioral%20Interviews%3A%20STAR%20Method"
+      "title": "Behavioral Interviews: STAR Method",
+      "url": "https://www.youtube.com/results?search_query=Behavioral%20Interviews%3A%20STAR%20Method%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -7701,8 +8158,8 @@ const PREP_SHEET_DATA = [
       "Questions to ask interviewers"
     ],
     "video": {
-      "title": "Behavioral: Leadership & Company Values Preparation Guide",
-      "url": "https://www.youtube.com/results?search_query=Behavioral%3A%20Leadership%20%26%20Company%20Values"
+      "title": "Behavioral: Leadership & Company Values",
+      "url": "https://www.youtube.com/results?search_query=Behavioral%3A%20Leadership%20%26%20Company%20Values%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -7731,8 +8188,8 @@ const PREP_SHEET_DATA = [
       "Analyzing space-time complexity"
     ],
     "video": {
-      "title": "Mock Interview: SDE Coding Mock Preparation Guide",
-      "url": "https://www.youtube.com/results?search_query=Mock%20Interview%3A%20SDE%20Coding%20Mock"
+      "title": "Mock Interview: SDE Coding Mock",
+      "url": "https://www.youtube.com/results?search_query=Mock%20Interview%3A%20SDE%20Coding%20Mock%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -7760,8 +8217,8 @@ const PREP_SHEET_DATA = [
       "Database partitioning selection reasoning"
     ],
     "video": {
-      "title": "Mock Interview: SDE System Design Mock Preparation Guide",
-      "url": "https://www.youtube.com/results?search_query=Mock%20Interview%3A%20SDE%20System%20Design%20Mock"
+      "title": "Mock Interview: SDE System Design Mock",
+      "url": "https://www.youtube.com/results?search_query=Mock%20Interview%3A%20SDE%20System%20Design%20Mock%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -7789,8 +8246,8 @@ const PREP_SHEET_DATA = [
       "Designing MapReduce jobs flow"
     ],
     "video": {
-      "title": "Mock Interview: DE Coding & SQL Mock Preparation Guide",
-      "url": "https://www.youtube.com/results?search_query=Mock%20Interview%3A%20DE%20Coding%20%26%20SQL%20Mock"
+      "title": "Mock Interview: DE Coding & SQL Mock",
+      "url": "https://www.youtube.com/results?search_query=Mock%20Interview%3A%20DE%20Coding%20%26%20SQL%20Mock%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -7818,8 +8275,8 @@ const PREP_SHEET_DATA = [
       "FastAPI inference latency optimization"
     ],
     "video": {
-      "title": "Mock Interview: AI & ML Concept Mock Preparation Guide",
-      "url": "https://www.youtube.com/results?search_query=Mock%20Interview%3A%20AI%20%26%20ML%20Concept%20Mock"
+      "title": "Mock Interview: AI & ML Concept Mock",
+      "url": "https://www.youtube.com/results?search_query=Mock%20Interview%3A%20AI%20%26%20ML%20Concept%20Mock%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -7848,8 +8305,8 @@ const PREP_SHEET_DATA = [
       "Continuous upskilling in AI era"
     ],
     "video": {
-      "title": "Offer Negotiation & Career Growth Strategies Preparation Guide",
-      "url": "https://www.youtube.com/results?search_query=Offer%20Negotiation%20%26%20Career%20Growth%20Strategies"
+      "title": "Offer Negotiation & Career Growth Strategies",
+      "url": "https://www.youtube.com/results?search_query=Offer%20Negotiation%20%26%20Career%20Growth%20Strategies%20tutorial"
     },
     "problems": [],
     "practice_links": [
@@ -7871,15 +8328,15 @@ const PREP_SHEET_DATA = [
     "week": 26,
     "phase": "Phase 6: Interview Sprint",
     "track": "interview",
-    "topic": "Interview Launchpad & Master Graduation Day",
+    "topic": "Interview Launchpad & Graduation Day",
     "subtopics": [
       "Mock board checklist execution",
       "Reviewing previous pitfalls",
       "Final confidence builder"
     ],
     "video": {
-      "title": "Interview Launchpad & Master Graduation Day Preparation Guide",
-      "url": "https://www.youtube.com/results?search_query=Interview%20Launchpad%20%26%20Master%20Graduation%20Day"
+      "title": "Interview Launchpad & Graduation Day",
+      "url": "https://www.youtube.com/results?search_query=Interview%20Launchpad%20%26%20Graduation%20Day%20tutorial"
     },
     "problems": [],
     "practice_links": [
